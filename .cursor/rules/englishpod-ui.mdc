@@ -1,0 +1,20 @@
+# EnglishPod UI 规格
+
+**视觉与布局的唯一参考**：仓库根目录 `index.html`（不是 apps/web 现有布局）。
+
+实现 React 页面前必须：
+1. 先读 index.html 对应区域的 HTML 结构 + class 名
+2. 复用 apps/web/src/index.css 里已有 token，禁止新造颜色
+3. 按原型 class 映射组件，不要发明新布局
+
+## 页面分工
+- 全局壳：顶栏品牌 + 主导航（仪表盘/课程库/复习）— 进入学习页时全局侧栏应收起或隐藏
+- 学习页 `/cources/:id`：严格按 index.html 的 `.app` 结构
+  - `.course-list` → CourseSidebar
+  - `.main` + `.subs` → SubtitlePanel  
+  - `.player` → PersistentPlayer（字幕选择不放播放器上）
+  - 课程项：`.ci-num` + `.ci-title` + `.ci-prog` + `.ci-dot`
+
+## 禁止
+- 不要用当前 App.tsx 的课程列表样式替代学习页左侧列表
+- 不要双左栏（全局侧栏 + 课程侧栏同时全宽展开）

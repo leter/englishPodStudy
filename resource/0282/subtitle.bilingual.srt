@@ -1,0 +1,824 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello everyone and welcome to EnglishPod. My name is Marco.
+大家好，欢迎收听EnglishPod。我是Marco。
+
+2
+00:00:04,000 --> 00:00:11,000
+My name is Catherine and today we have an advanced level lesson for you. This one's a bit difficult. It's all about science.
+我是Catherine，今天我们要为大家带来一节高级课程。这节课有点难度，全是关于科学的。
+
+3
+00:00:11,000 --> 00:00:23,000
+That's right. Today we're going to talk about physics, specifically about, well you know, things like Stephen Hawking and wormholes, black holes and general theory of relativity and all that good stuff.
+没错。今天我们要讨论物理学，具体来说，就是像史蒂芬·霍金、虫洞、黑洞、广义相对论以及所有那些有趣的东西。
+
+4
+00:00:23,000 --> 00:00:33,000
+Right. So we're in class. We're learning about physics today and you're going to hear a lot of terms. Don't worry if you're not really sure what they mean. We'll be back in a moment to talk about them.
+对。所以我们今天在课堂上学习物理学，你会听到很多术语。如果你不太确定它们的意思，别担心。我们稍后会回来讨论它们。
+
+5
+00:00:43,000 --> 00:00:49,000
+Good morning, everybody. Welcome to Physics 101. My name is Ed Brown and I will be your professor for the semester.
+大家早上好。欢迎来到物理学101。我是Ed Brown，这学期你们的教授。
+
+6
+00:00:49,000 --> 00:00:58,000
+Since today is our first day, I wanted to give you an overview of what this course will look like, how you will be graded and what we will cover this semester.
+因为今天是第一天，我想给大家一个课程概览，包括评分方式以及这学期我们要学的内容。
+
+7
+00:00:58,000 --> 00:01:03,000
+Will we be focusing more on theoretical physics or experimental physics, professor?
+教授，我们会更侧重于理论物理还是实验物理？
+
+8
+00:01:03,000 --> 00:01:08,000
+This is an introductory course and my aim is to give you a broad overview of the field of physics.
+这是一门入门课程，我的目标是让你们对物理学领域有一个广泛的了解。
+
+9
+00:01:08,000 --> 00:01:12,000
+The term physics encompasses many different areas of research and study.
+“物理学”这个词涵盖了许多不同的研究和学习领域。
+
+10
+00:01:12,000 --> 00:01:20,000
+And I hope this course will provide you with a conceptual understanding of physics, which will prove useful whether or not you choose to further your study in the field.
+我希望这门课能给你们提供物理学的概念性理解，无论你们是否选择继续深造，这都会很有用。
+
+11
+00:01:20,000 --> 00:01:24,000
+We will begin the course by looking at the fundamental concepts of physics.
+我们将从物理学的基本概念开始学习。
+
+12
+00:01:24,000 --> 00:01:29,000
+Then by the middle of the semester, we will begin exploring the more theoretical side of physics.
+然后到学期中段，我们将开始探索物理学中更理论化的方面。
+
+13
+00:01:29,000 --> 00:01:36,000
+It is essential that you first have a firm grasp of the fundamentals so that you can better understand the theoretical concepts when we get to them.
+你们必须先扎实掌握基础知识，这样才能在学到理论概念时更好地理解它们。
+
+14
+00:01:36,000 --> 00:01:41,000
+Will we learn about black holes, wormholes and string theory?
+我们会学习黑洞、虫洞和弦理论吗？
+
+15
+00:01:41,000 --> 00:01:45,000
+We will learn about the general theory of relativity, including black holes.
+我们会学习广义相对论，包括黑洞。
+
+16
+00:01:45,000 --> 00:01:50,000
+We will also explore the developing theories in quantum mechanics, such as string theory.
+我们还会探索量子力学中正在发展的理论，比如弦理论。
+
+17
+00:01:50,000 --> 00:01:54,000
+We will discuss some hypothetical features of space-time, like wormholes.
+我们会讨论一些时空的假设特征，比如虫洞。
+
+18
+00:01:54,000 --> 00:02:04,000
+We will also explore some of the more influential developments in the field of thermodynamics, electromagnetism and nuclear physics, all of which have had significant impacts on modern life.
+我们还会探索热力学、电磁学和核物理学领域一些更有影响力的发展，这些都对现代生活产生了重大影响。
+
+19
+00:02:04,000 --> 00:02:10,000
+Now I am going to have the TAs pass out the syllabus for this class, so you can see how this course will be graded.
+现在我会让助教分发这门课的教学大纲，这样你们就能看到这门课是如何评分的。
+
+20
+00:02:10,000 --> 00:02:15,000
+Oh man, looks like this isn't going to be the easy A I thought it would be.
+哦，天哪，看来这不会是我以为的那么容易拿A的课了。
+
+21
+00:02:19,000 --> 00:02:27,000
+Alright, we're back. So obviously we are in a class, as you said, and the professor is pretty much introducing the course and what's going to happen during the semester.
+好了，我们回来了。很明显，我们在一堂课上，就像你说的，教授基本上在介绍课程以及这学期会发生什么。
+
+22
+00:02:27,000 --> 00:02:33,000
+That's right. So he's talking about the different kinds of physics or the different elements of physics that will be a part of this course.
+没错。所以他谈到了这门课会涉及的不同种类的物理学或物理学的不同元素。
+
+23
+00:02:33,000 --> 00:02:40,000
+And there's a very eager student, he's very excited and he wants to know, are these interesting things going to be a part of the course?
+还有一个非常积极的学生，他很兴奋，想知道这些有趣的东西会不会是课程的一部分。
+
+24
+00:02:40,000 --> 00:02:49,000
+And so when we start out, we talked about these two different fields of physics and I think maybe it would be helpful to start there with these two branches of this field.
+所以我们一开始，就谈到了物理学的这两个不同领域，我觉得从这两个分支开始讲可能会很有帮助。
+
+25
+00:02:49,000 --> 00:02:57,000
+That's right. He mentioned, this boy Matt said, if they're going to be focusing more on theoretical physics or experimental physics.
+没错。他提到，这个叫Matt的男生问，他们是否会更侧重于理论物理还是实验物理。
+
+26
+00:02:57,000 --> 00:03:04,000
+Now, theoretical physics and experimental physics are what we call two different branches of physics. That means they're both physics.
+理论物理和实验物理是我们所说的物理学的两个不同分支。这意味着它们都是物理学。
+
+27
+00:03:04,000 --> 00:03:09,000
+But people who do them have different methods and maybe focus on different things.
+但从事这些领域的人有不同的方法，可能关注不同的事情。
+
+28
+00:03:09,000 --> 00:03:13,000
+Theoretical comes from the word theory. Right.
+理论这个词来源于“理论”。对。
+
+29
+00:03:13,000 --> 00:03:22,000
+So I have a theory about something and I'm going to think about whether or not it's possible and maybe there's some math involved.
+所以我对某件事有一个理论，我会思考它是否可能，可能还会涉及一些数学。
+
+30
+00:03:22,000 --> 00:03:27,000
+But with experimental physics, the key word here is experiment, experimental.
+但对于实验物理，这里的关键词是实验。
+
+31
+00:03:27,000 --> 00:03:31,000
+That means we actually build experiments to test our theories.
+这意味着我们实际上要建立实验来检验我们的理论。
+
+32
+00:03:31,000 --> 00:03:40,000
+That's right. So I guess theoretical physics, we can just have theories about how things happen or explain them, but we can't really prove them.
+没错。所以我想理论物理，我们可以只是对事情如何发生有理论或解释它们，但我们不能真正证明它们。
+
+33
+00:03:40,000 --> 00:03:45,000
+We can just have theories around them. Maybe we can try and prove them mathematically.
+我们只能围绕它们有理论。也许我们可以尝试用数学来证明它们。
+
+34
+00:03:45,000 --> 00:03:49,000
+But experimental physics, you can actually, as you said, create an experiment to prove it or not.
+但实验物理，你可以像你说的那样，实际创建一个实验来证明它或推翻它。
+
+35
+00:03:49,000 --> 00:03:55,000
+That's right. And so those are the two main branches that the young man asks about.
+没错。所以这就是那个年轻人问到的两个主要分支。
+
+36
+00:03:55,000 --> 00:03:59,000
+But the professor says, you know, listen, we're going to be talking about the fundamental concepts of physics.
+但教授说，听着，我们要讨论物理学的基本概念。
+
+37
+00:03:59,000 --> 00:04:06,000
+And so fundamental concepts are things that you often hear a professor talk about in your introductory class.
+所以基本概念就是你在入门课上经常听到教授谈论的东西。
+
+38
+00:04:06,000 --> 00:04:08,000
+So introduction to mathematics or introduction to physics.
+比如数学入门或物理学入门。
+
+39
+00:04:08,000 --> 00:04:11,000
+So fundamental concepts are the basics.
+所以基本概念就是基础。
+
+40
+00:04:11,000 --> 00:04:16,000
+That's right. So the most important, but also the ones at the very bottom, the foundation.
+没错。所以是最重要的，也是最底层的，是基础。
+
+41
+00:04:16,000 --> 00:04:20,000
+Because you can learn about more difficult or more complicated things later.
+因为你可以以后学习更难或更复杂的东西。
+
+42
+00:04:20,000 --> 00:04:24,000
+But first, you have to have a foundation. So those are the fundamental concepts.
+但首先，你必须有一个基础。所以那些就是基本概念。
+
+43
+00:04:24,000 --> 00:04:35,000
+Right. And actually, after the professor said that, this other, this guy, Matt, went on to ask if they were going to learn about black holes, wormholes and string theory.
+对。实际上，教授说完之后，这个叫Matt的家伙接着问他们是否会学习黑洞、虫洞和弦理论。
+
+44
+00:04:35,000 --> 00:04:39,000
+OK, so three very important parts of physics, but very, very complicated things.
+好的，物理学中三个非常重要的部分，但也是非常非常复杂的东西。
+
+45
+00:04:39,000 --> 00:04:43,000
+The first two are related, right? So we've got astrophysics.
+前两个是相关的，对吧？所以我们有天体物理学。
+
+46
+00:04:43,000 --> 00:04:51,000
+Astro means star. So astrophysics is the physics of things, bodies in space, planets, stars, things like that.
+“天体”意思是星星。所以天体物理学是关于太空中的物体、行星、恒星之类的东西的物理学。
+
+47
+00:04:51,000 --> 00:04:57,000
+That's right. And so two concepts that we often talk about in astrophysics are black holes and wormholes.
+没错。所以我们在天体物理学中经常讨论的两个概念是黑洞和虫洞。
+
+48
+00:04:57,000 --> 00:05:01,000
+That's right. So I think many of you have already heard this word, black hole.
+对。所以我想很多人已经听过“黑洞”这个词了。
+
+49
+00:05:01,000 --> 00:05:06,000
+The concept of it is basically a huge hole in space that just sucks up everything.
+它的概念基本上是一个巨大的太空洞，会吸走一切。
+
+50
+00:05:06,000 --> 00:05:12,000
+The gravitational force. So the pull of gravity is so strong that nothing can resist it.
+引力。所以引力如此强大，以至于没有任何东西能抵抗它。
+
+51
+00:05:12,000 --> 00:05:15,000
+Everything that comes close to a black hole, it's like in a drain.
+任何靠近黑洞的东西，就像掉进排水管一样。
+
+52
+00:05:15,000 --> 00:05:20,000
+Everything that comes close to it gets sucked in. No light can escape it.
+任何靠近它的东西都会被吸进去。连光都无法逃脱。
+
+53
+00:05:20,000 --> 00:05:24,000
+That's right. And the other concept there is a wormhole.
+没错。另一个概念是虫洞。
+
+54
+00:05:24,000 --> 00:05:33,000
+So it's basically a sort of bending of space and time in which you can travel from one point to another a lot faster than going in a straight line.
+它基本上是一种时空弯曲，你可以通过它从一个点旅行到另一个点，比走直线快得多。
+
+55
+00:05:33,000 --> 00:05:39,000
+Or from one time to another. So this is a very, very popular concept in science fiction movies and books.
+或者从一个时间到另一个时间。所以这是科幻电影和书籍中非常非常流行的概念。
+
+56
+00:05:39,000 --> 00:05:45,000
+For example, Star Trek, the most recent movie, the new movie Star Trek, there was a wormhole.
+例如，《星际迷航》，最近的那部电影，新电影《星际迷航》里就有一个虫洞。
+
+57
+00:05:45,000 --> 00:05:49,000
+So one ship goes from the future and it comes into the past.
+所以一艘飞船从未来出发，来到了过去。
+
+58
+00:05:49,000 --> 00:05:51,000
+That's right. So it has to travel through this wormhole.
+没错。所以它必须穿过这个虫洞。
+
+59
+00:05:51,000 --> 00:05:57,000
+That's right. And actually, yeah, you say science fiction and obviously it's hard to prove it,
+对。实际上，你说科幻，显然很难证明它，
+
+60
+00:05:57,000 --> 00:06:02,000
+but this is one of the concepts that physicists think they can prove someday.
+但这是物理学家认为他们有一天能证明的概念之一。
+
+61
+00:06:02,000 --> 00:06:05,000
+Someday. And this is why it's a part of theoretical physics.
+有一天。这就是为什么它是理论物理的一部分。
+
+62
+00:06:05,000 --> 00:06:09,000
+That's right. And what about this other concept, string theory?
+没错。那另一个概念，弦理论呢？
+
+63
+00:06:09,000 --> 00:06:15,000
+Okay, string theory is a theory about the way the world works, basically.
+好的，弦理论基本上是一个关于世界运作方式的理论。
+
+64
+00:06:15,000 --> 00:06:21,000
+And it is a theory that actually competes with Einstein's view of the way the world works, right?
+而且它是一个实际上与爱因斯坦关于世界运作方式的观点相竞争的理论，对吧？
+
+65
+00:06:21,000 --> 00:06:30,000
+And string theory is about basically strings that are vibrating and that's the way the entire universe is kind of built.
+弦理论基本上是关于振动的弦，整个宇宙就是这样构建的。
+
+66
+00:06:30,000 --> 00:06:35,000
+Yeah, so basically at the subatomic level, usually you're supposed to have an atom,
+是的，所以基本上在亚原子层面，通常你应该有一个原子，
+
+67
+00:06:35,000 --> 00:06:41,000
+but also supposedly these atoms are made up of strings that depending on the frequency at which they vibrate,
+但据说这些原子是由弦组成的，根据它们振动的频率，
+
+68
+00:06:41,000 --> 00:06:44,000
+they can constitute different elements or different parts.
+它们可以构成不同的元素或不同的部分。
+
+69
+00:06:44,000 --> 00:06:45,000
+Different kinds of matter, right.
+不同种类的物质，对。
+
+70
+00:06:45,000 --> 00:06:46,000
+Exactly.
+完全正确。
+
+71
+00:06:46,000 --> 00:06:53,000
+And so we're talking about the very, very, very, very, very, very, very smallest building blocks of the things in the world,
+所以我们谈论的是世界上事物非常非常非常非常非常非常微小的基本组成部分，
+
+72
+00:06:53,000 --> 00:06:56,000
+atoms and even quarks and joules and those things.
+原子，甚至夸克和那些东西。
+
+73
+00:06:56,000 --> 00:07:02,000
+Exactly. So it's actually one of these new things that, well, people are talking about string theory.
+完全正确。所以这实际上是这些新事物之一，嗯，人们在谈论弦理论。
+
+74
+00:07:02,000 --> 00:07:07,000
+It's kind of this new way of seeing the world and explaining the unexplainable
+它是一种看待世界和解释无法解释之事的新方式，
+
+75
+00:07:07,000 --> 00:07:10,000
+because there are so many things still in the world that we can't explain.
+因为世界上仍然有太多我们无法解释的事情。
+
+76
+00:07:10,000 --> 00:07:17,000
+And people argue about this because obviously if you can't prove it, it's hard to say what is right and what is wrong.
+人们对此争论不休，因为显然如果你无法证明它，就很难说什么是对的什么是错的。
+
+77
+00:07:17,000 --> 00:07:23,000
+Exactly. But actually one thing that was proven was Einstein's general theory of relativity.
+完全正确。但实际上有一件事被证明了，那就是爱因斯坦的广义相对论。
+
+78
+00:07:23,000 --> 00:07:26,000
+So this is something we all learned back in high school or in college.
+所以这是我们在高中或大学都学过的东西。
+
+79
+00:07:26,000 --> 00:07:34,000
+That's right. So basically the general theory of relativity is this idea that space and time are not fixed.
+没错。所以基本上广义相对论是这样一个观点：空间和时间不是固定的。
+
+80
+00:07:34,000 --> 00:07:36,000
+They're relative to each other.
+它们是相对的。
+
+81
+00:07:36,000 --> 00:07:40,000
+So an example my teacher used to use is that when you travel very, very, very fast,
+所以我老师以前举的一个例子是，当你以非常非常快的速度旅行时，
+
+82
+00:07:40,000 --> 00:07:47,000
+imagine going around a jet around the world counterclockwise, time slows down the faster you move.
+想象一下乘喷气式飞机逆时针绕地球飞行，你移动得越快，时间就会变慢。
+
+83
+00:07:47,000 --> 00:07:53,000
+Okay, so that proves that time and space are not fixed.
+好的，这证明了时间和空间不是固定的。
+
+84
+00:07:53,000 --> 00:08:01,000
+That's right. Actually, the general theory of relativity and specifically this aspect of speed and time
+没错。实际上，广义相对论，特别是速度和时间的这个方面，
+
+85
+00:08:01,000 --> 00:08:06,000
+was proven with the example that you give with two atomic clocks.
+通过你提到的两个原子钟的例子得到了证实。
+
+86
+00:08:06,000 --> 00:08:10,000
+You kept one on the ground, like, I don't know, in your house,
+你把一个钟放在地面上，比如，我不知道，放在你家里，
+
+87
+00:08:10,000 --> 00:08:15,000
+and you put one in an airplane that was traveling faster than the speed of sound.
+然后把另一个放在一架以超音速飞行的飞机上。
+
+88
+00:08:15,000 --> 00:08:22,000
+And so after maybe an hour, the plane would land and the clocks would have not the same time anymore,
+所以大约一小时后，飞机降落，两个钟的时间就不一样了，
+
+89
+00:08:22,000 --> 00:08:30,000
+but they would be one, the clock that was in the airplane traveling faster would be maybe half a second off
+而是其中一个，在飞机上飞得更快的钟，可能会慢半秒左右，
+
+90
+00:08:30,000 --> 00:08:36,000
+or something very, very small. But you would see that time moves slower because your speed is faster.
+或者非常非常小的差距。但你会看到时间变慢了，因为你的速度更快了。
+
+91
+00:08:36,000 --> 00:08:40,000
+All right. So that's the general theory. That's a part of the general theory of relativity.
+好的。这就是广义相对论。这是广义相对论的一部分。
+
+92
+00:08:40,000 --> 00:08:45,000
+It's a very important theory in the history of the world, but also in the history of physics.
+这是世界历史上一个非常重要的理论，也是物理学史上的重要理论。
+
+93
+00:08:45,000 --> 00:08:52,000
+Another thing, though, that the professor mentioned that is very important in physics these days is quantum mechanics.
+不过，教授还提到了另一个在当今物理学中非常重要的东西，那就是量子力学。
+
+94
+00:08:52,000 --> 00:08:59,000
+Yes, this is actually a very interesting field of physics, but very hard to understand.
+是的，这实际上是物理学中一个非常有趣的领域，但很难理解。
+
+95
+00:08:59,000 --> 00:09:01,000
+In my opinion, for me, it's very, very hard.
+在我看来，对我来说，这非常非常难。
+
+96
+00:09:01,000 --> 00:09:06,000
+I find it very complex, too. Well, mechanics are the way things work, right?
+我也觉得它非常复杂。嗯，力学就是事物运作的方式，对吧？
+
+97
+00:09:06,000 --> 00:09:10,000
+And so quantum is at the atomic and subatomic level.
+而量子指的是原子和亚原子层面。
+
+98
+00:09:10,000 --> 00:09:15,000
+And so you're talking about basically the building blocks of the things in the universe.
+所以你基本上是在谈论宇宙中事物的基本构成。
+
+99
+00:09:15,000 --> 00:09:23,000
+And the people who are studying this or working on this, quantum mechanics, they don't like the Einsteinians.
+而研究或从事量子力学的人，他们不喜欢爱因斯坦学派。
+
+100
+00:09:23,000 --> 00:09:28,000
+They don't like the people who follow Einstein because these two theories, they don't actually go together very well.
+他们不喜欢追随爱因斯坦的人，因为这两个理论实际上并不太相容。
+
+101
+00:09:28,000 --> 00:09:30,000
+You either have to believe one or you have to believe the other.
+你要么相信一个，要么相信另一个。
+
+102
+00:09:30,000 --> 00:09:41,000
+Well, the problem is that when you're talking at the macro level, the way things work and the way things move, like for example, you and me,
+嗯，问题在于，当你在宏观层面谈论事物运作和运动的方式时，比如你和我，
+
+103
+00:09:41,000 --> 00:09:46,000
+of course, there are formulas and there are everything that explains and that proves that things are the way they are.
+当然，有公式和一切来解释并证明事物就是它们现在的样子。
+
+104
+00:09:46,000 --> 00:09:51,000
+But the problem is that in quantum mechanics at the subatomic level, it's so different.
+但问题在于，在亚原子层面的量子力学中，情况是如此不同。
+
+105
+00:09:51,000 --> 00:09:59,000
+Like, for example, electronics, the reason why we're able to have microprocessors and electronics is because,
+比如，电子学，我们之所以能有微处理器和电子设备，是因为，
+
+106
+00:09:59,000 --> 00:10:04,000
+for example, atoms can be in two places at the same time, which is impossible in our world.
+例如，原子可以同时出现在两个地方，这在我们的世界里是不可能的。
+
+107
+00:10:04,000 --> 00:10:07,000
+It's like saying, you know, Catherine can be in two places at the exact same time.
+这就像说，你知道，凯瑟琳可以在完全同一时间出现在两个地方。
+
+108
+00:10:07,000 --> 00:10:11,000
+And there's also this problem of observation that I've read about.
+还有我读过的关于观测的问题。
+
+109
+00:10:11,000 --> 00:10:19,000
+So there are some kinds of particles like electrons, for example, that if you're observing them, sometimes appear as waves.
+所以有些粒子，比如电子，如果你观测它们，它们有时会表现为波。
+
+110
+00:10:19,000 --> 00:10:21,000
+But if you're observing them, sometimes appear to have mass.
+但如果你观测它们，它们有时又表现出质量。
+
+111
+00:10:21,000 --> 00:10:22,000
+Exactly like light.
+就像光一样。
+
+112
+00:10:22,000 --> 00:10:33,000
+Yeah. So you're talking about these things that seem to have a whole different set of rules from the rules that we have here walking around and eating food and going to work.
+是的。所以你谈论的是这些似乎有一套完全不同的规则的东西，与我们在这里走来走去、吃东西、上班的规则不同。
+
+113
+00:10:33,000 --> 00:10:39,000
+And so I think that's what's fascinating about physics, that, you know, you can break things down to the very smallest parts and they seem very different.
+所以我认为这就是物理学的迷人之处，你知道，你可以把事物分解到最小的部分，它们看起来非常不同。
+
+114
+00:10:39,000 --> 00:10:44,000
+Or you can think about the stars and the moon and, you know, these planets and they have their own rules, too.
+或者你可以思考星星、月亮，你知道，这些行星，它们也有自己的规则。
+
+115
+00:10:44,000 --> 00:10:50,000
+And so, you know, that's why physics is such a very, I think it's, it's, it's frustrating.
+所以，你知道，这就是为什么物理学如此，我认为它，它，它令人沮丧。
+
+116
+00:10:50,000 --> 00:10:53,000
+It's frustrating and it's exciting at the same time.
+它既令人沮丧又令人兴奋。
+
+117
+00:10:53,000 --> 00:11:03,000
+That's right. And actually some of the other fields that the professor said they were going to explore are the fields of thermodynamics, electromagnetism and even nuclear physics.
+没错。实际上，教授说他们将要探索的其他领域包括热力学、电磁学甚至核物理学。
+
+118
+00:11:03,000 --> 00:11:07,000
+So very important branches, I think, of physics as well.
+所以我认为这些也是物理学非常重要的分支。
+
+119
+00:11:07,000 --> 00:11:13,000
+So when you're studying physics or science, you will definitely hear about the laws of thermodynamics.
+所以当你学习物理学或科学时，你肯定会听到热力学定律。
+
+120
+00:11:13,000 --> 00:11:17,000
+Thermo means heat and dynamics means, you know, changing, changing state.
+热力学中的“热”指热量，“动力学”指，你知道，状态变化。
+
+121
+00:11:17,000 --> 00:11:23,000
+And electromagnetism, of course, is the combination of two words, electricity and magnetism.
+而电磁学，当然，是电和磁这两个词的组合。
+
+122
+00:11:23,000 --> 00:11:25,000
+You know, like magnets, you have the plus end and the minus end.
+你知道，就像磁铁，有正极和负极。
+
+123
+00:11:25,000 --> 00:11:26,000
+Right.
+对。
+
+124
+00:11:26,000 --> 00:11:28,000
+They attract or they repel.
+它们相互吸引或排斥。
+
+125
+00:11:28,000 --> 00:11:30,000
+Then finally, nuclear physics.
+最后是核物理学。
+
+126
+00:11:30,000 --> 00:11:39,000
+Nuclear physics is very important because it's, again, about the, about atoms and breaking down atoms and finding out what their parts are.
+核物理学非常重要，因为它再次涉及原子、分解原子以及找出它们的组成部分。
+
+127
+00:11:39,000 --> 00:11:41,000
+So you might have heard about the Hadron Super Collider.
+所以你也许听说过强子对撞机。
+
+128
+00:11:41,000 --> 00:11:42,000
+Right.
+对。
+
+129
+00:11:42,000 --> 00:11:49,000
+This is like a big, it's like a big racetrack for atoms and they basically spin these atoms around the racetrack going faster and faster.
+这就像一个，就像一个原子的大赛道，他们基本上让这些原子在赛道上旋转，越来越快。
+
+130
+00:11:49,000 --> 00:11:52,000
+And then they put objects in their way so that they break.
+然后他们把物体放在它们的路径上，让它们撞碎。
+
+131
+00:11:52,000 --> 00:11:53,000
+They crash.
+它们相撞。
+
+132
+00:11:53,000 --> 00:11:54,000
+They crash.
+它们相撞。
+
+133
+00:11:54,000 --> 00:11:56,000
+And they study what the pieces look like.
+然后他们研究碎片的样子。
+
+134
+00:11:56,000 --> 00:11:59,000
+And what happens and how much energy is released.
+以及发生了什么，释放了多少能量。
+
+135
+00:11:59,000 --> 00:12:09,000
+It's all very interesting and it seems like things that are out of science fiction because it's not something mainstream that you hear about in the news very often.
+这一切都非常有趣，看起来像是科幻小说里的东西，因为这不是你在新闻中经常听到的主流内容。
+
+136
+00:12:09,000 --> 00:12:17,000
+Or that sometimes we understand, like obviously we all hear about the gossip magazines and who's dating who and all this other type of news.
+或者有时我们能理解，比如显然我们都听说过八卦杂志，谁在和谁约会，以及所有其他类型的新闻。
+
+137
+00:12:17,000 --> 00:12:24,000
+But very rarely do we really pay attention to this type of information or news because it is a little bit complex to understand.
+但我们很少真正关注这类信息或新闻，因为它有点复杂难懂。
+
+138
+00:12:24,000 --> 00:12:28,000
+And it seems that, I think scientists are not the best writers for average people like you and me.
+而且似乎，我认为科学家并不是像你我这样的普通人最好的写作者。
+
+139
+00:12:28,000 --> 00:12:30,000
+They write in their own language almost.
+他们几乎用自己的语言写作。
+
+140
+00:12:30,000 --> 00:12:32,000
+Oftentimes that's the case.
+情况常常如此。
+
+141
+00:12:32,000 --> 00:12:42,000
+But I have to say I recently read Bill Bryson's book, A Short History of Nearly Everything, and it talks about the history of the world and us and the animals and plants in it.
+但我得说，我最近读了比尔·布莱森的书《万物简史》，它讲述了世界、我们以及其中动植物的历史。
+
+142
+00:12:42,000 --> 00:12:45,000
+And he talks about physics especially.
+他特别谈到了物理学。
+
+143
+00:12:45,000 --> 00:12:51,000
+And I think that if you're interested in that, I don't know, I mean if you're an advanced English learner, it might be challenging.
+我认为如果你对此感兴趣，我不知道，我的意思是，如果你是一个高级英语学习者，这可能会有挑战性。
+
+144
+00:12:51,000 --> 00:12:52,000
+It was challenging for me.
+对我来说也很有挑战性。
+
+145
+00:12:52,000 --> 00:12:57,000
+But it's definitely a good book to read to learn about some of these things.
+但这绝对是一本了解这些事物的好书。
+
+146
+00:12:57,000 --> 00:12:59,000
+Yeah, it's actually a very good idea.
+是的，这确实是个好主意。
+
+147
+00:12:59,000 --> 00:13:09,000
+And I don't know, many of us, I think many of us as well growing up, maybe we had a hard time with some of these exact sciences like chemistry or physics.
+而且我不知道，我们很多人，我想我们很多人成长过程中，可能对化学或物理这类精确科学感到吃力。
+
+148
+00:13:09,000 --> 00:13:12,000
+So we obviously find it hard to be interested in it.
+所以我们显然很难对它产生兴趣。
+
+149
+00:13:12,000 --> 00:13:15,000
+But you know it's very different because it's not math and formulas.
+但你知道，这很不一样，因为它不是数学和公式。
+
+150
+00:13:15,000 --> 00:13:19,000
+You don't really have to know how to derive the formula or anything.
+你不需要知道如何推导公式之类的。
+
+151
+00:13:19,000 --> 00:13:21,000
+You just kind of have to understand the theory.
+你只需要理解理论。
+
+152
+00:13:21,000 --> 00:13:23,000
+And it's very, very interesting I must say.
+而且我必须说，这非常非常有趣。
+
+153
+00:13:23,000 --> 00:13:32,000
+It is and it's fun because you can talk about, it's like philosophy sometimes, you can talk about if this were the case, then what would happen.
+是的，而且很有趣，因为你可以讨论，有时就像哲学一样，你可以讨论如果情况是这样，那会发生什么。
+
+154
+00:13:32,000 --> 00:13:37,000
+These hypothetical situations and I think that's maybe more in line with theoretical physics.
+这些假设的情况，我认为这更符合理论物理学的范畴。
+
+155
+00:13:37,000 --> 00:13:42,000
+But it's really interesting to think about and to let your mind go into these very strange places.
+但思考这些，让你的思绪进入这些非常奇特的领域，真的很有趣。
+
+156
+00:13:42,000 --> 00:13:43,000
+That's right.
+没错。
+
+157
+00:13:43,000 --> 00:13:49,000
+So actually we are curious to know if you believe that maybe someday we will be able to travel in time.
+所以我们很好奇，你是否相信也许有一天我们能够穿越时空。
+
+158
+00:13:49,000 --> 00:13:57,000
+Or do you believe that… Live on other planets or we'll have space travel as a part of our holiday making.
+或者你是否相信……在其他星球上生活，或者太空旅行会成为我们度假的一部分。
+
+159
+00:13:57,000 --> 00:14:02,000
+Yeah, they supposedly already are arranging tourism to the moon, right?
+是的，据说他们已经在安排月球旅游了，对吧？
+
+160
+00:14:02,000 --> 00:14:08,000
+Yeah, they are. So I wonder if one day like in the fifth element we're going to have these cruises to space.
+是的，他们正在安排。所以我想知道，会不会有一天，就像《第五元素》里那样，我们会有太空游轮。
+
+161
+00:14:08,000 --> 00:14:09,000
+Yeah, that would be fun.
+是啊，那会很有趣。
+
+162
+00:14:09,000 --> 00:14:18,000
+So let us know what your opinions are about this topic and also if you have any suggestions or questions, you can always visit us on our website englishpod.com.
+所以请告诉我们你对这个话题的看法，如果你有任何建议或问题，随时可以访问我们的网站 englishpod.com。
+
+163
+00:14:18,000 --> 00:14:20,000
+We hope to see you there and until next time.
+我们期待在那里见到你，下次再见。
+
+164
+00:14:20,000 --> 00:14:21,000
+Bye.
+再见。
+
+165
+00:14:21,000 --> 00:14:50,000
+Music.
+音乐。

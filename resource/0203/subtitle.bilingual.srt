@@ -1,0 +1,1589 @@
+1
+00:00:00,000 --> 00:00:05,800
+Hello everyone and welcome to EnglishPod.
+大家好，欢迎收听EnglishPod。
+
+2
+00:00:05,800 --> 00:00:06,800
+My name is Marco.
+我是Marco。
+
+3
+00:00:06,800 --> 00:00:12,400
+My name is Kathryn and today we have an elementary level lesson for you all about computers.
+我是Kathryn，今天我们为大家带来一节关于电脑的基础课程。
+
+4
+00:00:12,400 --> 00:00:13,400
+That's right.
+没错。
+
+5
+00:00:13,400 --> 00:00:19,600
+So we are going to take a look at some of the basic parts of a computer and also about
+所以我们要看看电脑的一些基本部件，还有关于
+
+6
+00:00:19,600 --> 00:00:24,040
+bad programs that could affect your computer and make it not work.
+可能影响电脑并导致它无法正常工作的坏程序。
+
+7
+00:00:24,040 --> 00:00:25,040
+That's right.
+没错。
+
+8
+00:00:25,040 --> 00:00:33,120
+So to get going, we have a verb for you that we're going to look at in vocabulary preview.
+那么开始之前，我们有一个动词，会在词汇预览中介绍。
+
+9
+00:00:33,120 --> 00:00:34,120
+Vocabulary preview.
+词汇预览。
+
+10
+00:00:34,120 --> 00:00:35,120
+All right.
+好的。
+
+11
+00:00:35,120 --> 00:00:41,400
+So today on vocabulary preview, we have a verb as you said, and it's to crash.
+今天在词汇预览中，我们有一个动词，就像你说的，是“crash”。
+
+12
+00:00:41,400 --> 00:00:42,400
+To crash.
+“Crash”。
+
+13
+00:00:42,400 --> 00:00:43,400
+Okay.
+好的。
+
+14
+00:00:43,400 --> 00:00:48,760
+This has a couple of different meanings, but in today's dialogue, this means for your computer
+这个词有几个不同的意思，但在今天的对话中，它指的是你的电脑
+
+15
+00:00:48,760 --> 00:00:52,240
+to shut down or to freeze or to stop working.
+关机、死机或停止工作。
+
+16
+00:00:52,240 --> 00:00:53,240
+Right.
+对。
+
+17
+00:00:53,240 --> 00:00:55,520
+So maybe you heard of a car crash, right?
+你可能听说过“car crash”（车祸），对吧？
+
+18
+00:00:55,520 --> 00:00:57,720
+When two cars, bam, hit each other.
+就是两辆车“砰”地撞在一起。
+
+19
+00:00:57,720 --> 00:01:01,160
+In this case, your computer is just not working anymore.
+在这里，你的电脑就是不再工作了。
+
+20
+00:01:01,160 --> 00:01:02,440
+It stopped working.
+它停止工作了。
+
+21
+00:01:02,440 --> 00:01:03,440
+It freezes.
+它死机了。
+
+22
+00:01:03,440 --> 00:01:04,440
+That's right.
+没错。
+
+23
+00:01:04,440 --> 00:01:05,720
+So you can't use it.
+所以你就没法用了。
+
+24
+00:01:05,720 --> 00:01:10,400
+So my computer crashed is a way to say my computer stopped working.
+所以“my computer crashed”就是说我的电脑停止工作了。
+
+25
+00:01:10,400 --> 00:01:11,520
+Okay.
+好的。
+
+26
+00:01:11,520 --> 00:01:14,280
+So that's a word that we're going to listen in our dialogue today.
+这就是我们今天对话中会听到的一个词。
+
+27
+00:01:14,280 --> 00:01:23,120
+Why don't we jump right into it and we'll be back shortly.
+我们直接进入对话吧，稍后再回来。
+
+28
+00:01:23,120 --> 00:01:24,120
+Hello.
+你好。
+
+29
+00:01:24,120 --> 00:01:25,720
+Thanks for calling one, two, three tech help.
+感谢拨打123技术支持热线。
+
+30
+00:01:25,720 --> 00:01:26,720
+I'm Todd.
+我是Todd。
+
+31
+00:01:26,720 --> 00:01:27,720
+How can I help you?
+有什么可以帮您的？
+
+32
+00:01:27,720 --> 00:01:28,720
+Hello.
+你好。
+
+33
+00:01:28,720 --> 00:01:30,720
+Can you help me on my computer?
+你能帮我看看我的电脑吗？
+
+34
+00:01:30,720 --> 00:01:32,120
+Oh man.
+哦，天哪。
+
+35
+00:01:32,120 --> 00:01:33,120
+It's okay, sir.
+没事的，先生。
+
+36
+00:01:33,120 --> 00:01:34,120
+Calm down.
+冷静点。
+
+37
+00:01:34,120 --> 00:01:35,120
+What happened?
+发生什么事了？
+
+38
+00:01:35,120 --> 00:01:36,760
+I turned on my laptop and it broke.
+我打开笔记本电脑，它就坏了。
+
+39
+00:01:36,760 --> 00:01:39,000
+I mean, the monitor went black.
+我是说，显示器变黑了。
+
+40
+00:01:39,000 --> 00:01:40,160
+Okay, sir.
+好的，先生。
+
+41
+00:01:40,160 --> 00:01:42,720
+It sounds like you might have a virus.
+听起来你可能中了病毒。
+
+42
+00:01:42,720 --> 00:01:43,920
+I don't feel sick.
+我没觉得不舒服啊。
+
+43
+00:01:43,920 --> 00:01:45,480
+Let me check.
+让我检查一下。
+
+44
+00:01:45,480 --> 00:01:46,480
+Nope.
+没有。
+
+45
+00:01:46,480 --> 00:01:47,480
+No fever.
+没发烧。
+
+46
+00:01:47,480 --> 00:01:48,480
+I'm fine.
+我很好。
+
+47
+00:01:48,480 --> 00:01:51,000
+No, your computer might have a virus.
+不，是你的电脑可能中了病毒。
+
+48
+00:01:51,000 --> 00:01:54,160
+I mean, it has a bad program on it.
+我是说，它上面有个坏程序。
+
+49
+00:01:54,160 --> 00:01:55,840
+Maybe that's why it crashed.
+也许这就是它崩溃的原因。
+
+50
+00:01:55,840 --> 00:02:01,160
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware
+我建议你运行一个杀毒程序，以便安全地移除任何不需要的间谍软件
+
+51
+00:02:01,160 --> 00:02:02,160
+or trojans.
+或木马。
+
+52
+00:02:02,160 --> 00:02:03,160
+Phew.
+呼。
+
+53
+00:02:03,160 --> 00:02:04,160
+Wait a minute.
+等一下。
+
+54
+00:02:04,160 --> 00:02:05,160
+Crash, spyware, trojans.
+崩溃、间谍软件、木马。
+
+55
+00:02:05,160 --> 00:02:06,160
+What?
+什么？
+
+56
+00:02:06,160 --> 00:02:07,160
+Where?
+在哪？
+
+57
+00:02:07,160 --> 00:02:08,160
+When?
+什么时候？
+
+58
+00:02:08,160 --> 00:02:09,160
+All right.
+好的。
+
+59
+00:02:09,160 --> 00:02:18,760
+So lots of great technology words today.
+今天有很多很棒的技术词汇。
+
+60
+00:02:18,760 --> 00:02:24,640
+Let's take a look at a few of them in Language Takeaway.
+我们来看看“语言要点”中的几个。
+
+61
+00:02:24,640 --> 00:02:25,640
+Language Takeaway.
+语言要点。
+
+62
+00:02:25,640 --> 00:02:27,080
+All right.
+好的。
+
+63
+00:02:27,080 --> 00:02:30,240
+So let's start off with our first word.
+我们先从第一个词开始。
+
+64
+00:02:30,240 --> 00:02:34,040
+You've probably heard it before, but let's go over it just in case.
+你可能以前听过，但为了以防万一，我们还是过一遍。
+
+65
+00:02:34,040 --> 00:02:35,040
+A laptop.
+“Laptop”（笔记本电脑）。
+
+66
+00:02:35,040 --> 00:02:36,040
+Laptop.
+“Laptop”。
+
+67
+00:02:36,040 --> 00:02:39,460
+A laptop is a kind of computer.
+笔记本电脑是一种电脑。
+
+68
+00:02:39,460 --> 00:02:41,040
+We have desktop, laptop.
+我们有台式机和笔记本电脑。
+
+69
+00:02:41,040 --> 00:02:42,040
+Right.
+对。
+
+70
+00:02:42,040 --> 00:02:44,560
+So your lap is the top part of your legs.
+你的“lap”就是大腿的上部。
+
+71
+00:02:44,560 --> 00:02:50,720
+So a laptop computer is a small portable computer that you can take with you anywhere.
+所以笔记本电脑是一种小巧便携的电脑，你可以随身携带。
+
+72
+00:02:50,720 --> 00:02:51,720
+That's right.
+没错。
+
+73
+00:02:51,720 --> 00:02:55,000
+A lot of students have laptops and businessmen as well.
+很多学生和商务人士都有笔记本电脑。
+
+74
+00:02:55,000 --> 00:02:57,360
+So you mentioned the opposite would be a desktop.
+你提到了它的反义词是“desktop”（台式机）。
+
+75
+00:02:57,360 --> 00:02:58,360
+Right.
+对。
+
+76
+00:02:58,360 --> 00:03:00,280
+So it sits on top of a desk.
+所以它放在桌子上。
+
+77
+00:03:00,280 --> 00:03:01,280
+Okay.
+好的。
+
+78
+00:03:01,280 --> 00:03:07,080
+So both a desktop and a laptop have monitors, a computer monitor.
+台式机和笔记本电脑都有显示器，也就是电脑显示器。
+
+79
+00:03:07,080 --> 00:03:10,720
+So a monitor is like a TV for your computer.
+显示器就像电脑的电视。
+
+80
+00:03:10,720 --> 00:03:13,160
+It's where you can see what you're doing.
+你可以在上面看到你在做什么。
+
+81
+00:03:13,160 --> 00:03:14,160
+Okay.
+好的。
+
+82
+00:03:14,160 --> 00:03:17,640
+So let's call it a monitor or a screen maybe.
+那我们叫它显示器或者屏幕吧。
+
+83
+00:03:17,640 --> 00:03:25,440
+You can also use the word screen, but monitor is the technical word for the, usually a box,
+你也可以用“屏幕”这个词，但“显示器”是技术术语，通常指一个盒子，
+
+84
+00:03:25,440 --> 00:03:28,080
+like a TV that goes with the desktop computer.
+就像和台式电脑配套的电视一样。
+
+85
+00:03:28,080 --> 00:03:29,080
+Okay.
+好的。
+
+86
+00:03:29,080 --> 00:03:30,080
+Very good.
+很好。
+
+87
+00:03:30,080 --> 00:03:35,560
+So Todd, the computer guy said, Hey, I think your computer might have a virus.
+所以，电脑专家托德说：“嘿，我觉得你的电脑可能中病毒了。”
+
+88
+00:03:35,560 --> 00:03:37,560
+Ooh, that doesn't sound good.
+哦，听起来不妙。
+
+89
+00:03:37,560 --> 00:03:38,560
+Yeah.
+是啊。
+
+90
+00:03:38,560 --> 00:03:39,560
+A virus.
+病毒。
+
+91
+00:03:39,560 --> 00:03:42,360
+So I guess you know what a virus is when you get sick, right?
+我想你知道生病时“病毒”是什么意思，对吧？
+
+92
+00:03:42,360 --> 00:03:44,120
+You get the flu or the cold.
+你会得流感或感冒。
+
+93
+00:03:44,120 --> 00:03:45,120
+That's right.
+没错。
+
+94
+00:03:45,120 --> 00:03:49,840
+You can say I have a virus, but how can a computer have a virus?
+你可以说“我感染了病毒”，但电脑怎么会中病毒呢？
+
+95
+00:03:49,840 --> 00:03:54,440
+This means it's a program that is designed to hurt your computer.
+这意味着它是一个旨在伤害你电脑的程序。
+
+96
+00:03:54,440 --> 00:03:55,440
+All right.
+好的。
+
+97
+00:03:55,440 --> 00:03:57,720
+So it's like your computer is sick and it doesn't work.
+所以就像你的电脑生病了，无法正常工作。
+
+98
+00:03:57,720 --> 00:04:01,400
+So a virus might make your computer crash.
+所以病毒可能导致你的电脑崩溃。
+
+99
+00:04:01,400 --> 00:04:02,400
+Exactly.
+没错。
+
+100
+00:04:02,400 --> 00:04:07,240
+So in order to avoid this, what we need is an antivirus program.
+所以为了避免这种情况，我们需要一个杀毒程序。
+
+101
+00:04:07,240 --> 00:04:08,240
+Okay.
+好的。
+
+102
+00:04:08,240 --> 00:04:10,920
+So virus is a bad thing.
+所以病毒是坏东西。
+
+103
+00:04:10,920 --> 00:04:11,920
+Antivirus is a good thing.
+杀毒是好事。
+
+104
+00:04:11,920 --> 00:04:18,160
+An antivirus program is a program that protects your computer from viruses.
+杀毒程序是一个保护你电脑免受病毒侵害的程序。
+
+105
+00:04:18,160 --> 00:04:20,320
+So you would say antivirus.
+所以你会说“杀毒”。
+
+106
+00:04:20,320 --> 00:04:27,160
+You might've heard of a very famous program called Norton antivirus or McAfee antivirus.
+你可能听说过一个很有名的程序叫诺顿杀毒或迈克菲杀毒。
+
+107
+00:04:27,160 --> 00:04:28,160
+These are brands.
+这些都是品牌。
+
+108
+00:04:28,160 --> 00:04:29,160
+Okay.
+好的。
+
+109
+00:04:29,160 --> 00:04:30,560
+Very good.
+很好。
+
+110
+00:04:30,560 --> 00:04:35,000
+So those are some of the main technical terms that we have on Language Takeaway.
+这些就是我们在“语言要点”部分学到的一些主要技术术语。
+
+111
+00:04:35,000 --> 00:04:37,920
+Why don't we listen to our dialogue quickly once again.
+我们快速再听一遍对话吧。
+
+112
+00:04:37,920 --> 00:04:43,320
+Why don't we listen to our dialogue quickly again and we'll be back with Fluency Builder.
+我们快速再听一遍对话，然后回来进行“流利度训练”。
+
+113
+00:04:43,320 --> 00:04:44,840
+Hello.
+你好。
+
+114
+00:04:44,840 --> 00:04:49,160
+Thanks for calling 123 Tech Help.
+感谢致电123技术帮助。
+
+115
+00:04:49,160 --> 00:04:50,160
+I'm Todd.
+我是托德。
+
+116
+00:04:50,160 --> 00:04:51,160
+How can I help you?
+有什么可以帮您？
+
+117
+00:04:51,160 --> 00:04:52,160
+Hello.
+你好。
+
+118
+00:04:52,160 --> 00:04:53,160
+Can you help me?
+你能帮我吗？
+
+119
+00:04:53,160 --> 00:04:54,160
+My computer.
+我的电脑。
+
+120
+00:04:54,160 --> 00:04:55,840
+Oh man.
+哦，天哪。
+
+121
+00:04:55,840 --> 00:04:57,000
+It's okay, sir.
+没事的，先生。
+
+122
+00:04:57,000 --> 00:04:58,000
+Calm down.
+冷静点。
+
+123
+00:04:58,000 --> 00:04:59,000
+What happened?
+发生什么事了？
+
+124
+00:04:59,000 --> 00:05:00,680
+I turned on my laptop and it broke.
+我打开笔记本电脑，它就坏了。
+
+125
+00:05:00,680 --> 00:05:02,800
+I mean, the monitor went black.
+我是说，显示器变黑了。
+
+126
+00:05:02,800 --> 00:05:03,880
+Okay, sir.
+好的，先生。
+
+127
+00:05:03,880 --> 00:05:06,600
+It sounds like you might have a virus.
+听起来你可能中病毒了。
+
+128
+00:05:06,600 --> 00:05:08,000
+I don't feel sick.
+我没觉得不舒服啊。
+
+129
+00:05:08,000 --> 00:05:09,640
+Let me check.
+让我检查一下。
+
+130
+00:05:09,640 --> 00:05:10,640
+Nope.
+没有。
+
+131
+00:05:10,640 --> 00:05:11,640
+No fever.
+没发烧。
+
+132
+00:05:11,640 --> 00:05:12,640
+I'm fine.
+我很好。
+
+133
+00:05:12,640 --> 00:05:15,040
+No, your computer might have a virus.
+不，是你的电脑可能中病毒了。
+
+134
+00:05:15,040 --> 00:05:18,080
+I mean, it has a bad program on it.
+我是说，它里面有个坏程序。
+
+135
+00:05:18,080 --> 00:05:19,840
+Maybe that's why it crashed.
+也许这就是它崩溃的原因。
+
+136
+00:05:19,840 --> 00:05:25,120
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware
+我建议你运行一个杀毒程序，以便安全地移除任何不需要的间谍软件
+
+137
+00:05:25,120 --> 00:05:26,960
+or Trojans.
+或木马。
+
+138
+00:05:26,960 --> 00:05:28,400
+Phew.
+呼。
+
+139
+00:05:28,400 --> 00:05:29,720
+Wait a minute.
+等一下。
+
+140
+00:05:29,720 --> 00:05:30,720
+Crash.
+崩溃。
+
+141
+00:05:30,720 --> 00:05:31,720
+Spyware.
+间谍软件。
+
+142
+00:05:31,720 --> 00:05:32,720
+Trojans.
+木马。
+
+143
+00:05:32,720 --> 00:05:33,720
+What?
+什么？
+
+144
+00:05:33,720 --> 00:05:34,720
+Where?
+哪里？
+
+145
+00:05:34,720 --> 00:05:35,720
+When?
+什么时候？
+
+146
+00:05:35,720 --> 00:05:36,720
+I don't know.
+我不知道。
+
+147
+00:05:36,720 --> 00:05:37,720
+I'm just kidding.
+我只是开玩笑。
+
+148
+00:05:37,720 --> 00:05:38,720
+All right.
+好的。
+
+149
+00:05:38,720 --> 00:05:39,720
+We're back.
+我们回来了。
+
+150
+00:05:39,720 --> 00:05:45,160
+So now, let's start off with three key phrases on Fluency Builder.
+现在，我们从“流利度训练”的三个关键短语开始。
+
+151
+00:05:45,160 --> 00:05:47,880
+This first phrase is one that I know you use a lot.
+第一个短语我知道你经常用。
+
+152
+00:05:47,880 --> 00:05:48,880
+I use it too.
+我也用。
+
+153
+00:05:48,880 --> 00:05:50,560
+We say, oh man.
+我们说“哦，天哪”。
+
+154
+00:05:50,560 --> 00:05:52,040
+Oh man.
+哦，天哪。
+
+155
+00:05:52,040 --> 00:05:57,360
+So now, depending on the tone, it can mean different things, right?
+所以，根据语气不同，它可以表示不同的意思，对吧？
+
+156
+00:05:57,360 --> 00:05:59,320
+So in this case, what does it mean?
+那么在这个例子中，它是什么意思？
+
+157
+00:05:59,320 --> 00:06:03,760
+So the man who's having problems with his computer says, my computer.
+那个电脑出问题的男人说：“我的电脑。”
+
+158
+00:06:03,760 --> 00:06:05,320
+Oh man.
+哦，天哪。
+
+159
+00:06:05,320 --> 00:06:06,320
+Right.
+对。
+
+160
+00:06:06,320 --> 00:06:07,320
+He seems a little bit anguished.
+他看起来有点痛苦。
+
+161
+00:06:07,320 --> 00:06:08,320
+Disappointed.
+失望。
+
+162
+00:06:08,320 --> 00:06:09,320
+Yeah.
+是的。
+
+163
+00:06:09,320 --> 00:06:10,320
+Oh man.
+哦，天哪。
+
+164
+00:06:10,320 --> 00:06:12,320
+So, it's an interjection.
+所以，这是一个感叹词。
+
+165
+00:06:12,320 --> 00:06:13,320
+That's right.
+没错。
+
+166
+00:06:13,320 --> 00:06:16,000
+So you can say, oh man, my computer crashed.
+所以你可以说，哦，天哪，我的电脑死机了。
+
+167
+00:06:16,000 --> 00:06:17,000
+Right.
+对。
+
+168
+00:06:17,000 --> 00:06:19,160
+Oh man, you're always late.
+哦，天哪，你总是迟到。
+
+169
+00:06:19,160 --> 00:06:21,520
+Now you can also say it for maybe surprise.
+你也可以用它来表示惊讶。
+
+170
+00:06:21,520 --> 00:06:23,240
+Like oh man.
+比如，哦，天哪。
+
+171
+00:06:23,240 --> 00:06:27,800
+So when you're excited about something, oh man, this computer game is awesome.
+所以当你对某事感到兴奋时，哦，天哪，这个电脑游戏太棒了。
+
+172
+00:06:27,800 --> 00:06:28,800
+Mm-hmm.
+嗯哼。
+
+173
+00:06:28,800 --> 00:06:29,800
+Okay.
+好的。
+
+174
+00:06:29,800 --> 00:06:35,080
+So it's just a way of expressing maybe disappointment or in some cases, excitement.
+所以它只是一种表达失望或某些情况下兴奋的方式。
+
+175
+00:06:35,080 --> 00:06:36,080
+Right.
+对。
+
+176
+00:06:36,080 --> 00:06:37,800
+So think about the way that you say it.
+所以想想你说话的方式。
+
+177
+00:06:37,800 --> 00:06:38,800
+Oh man.
+哦，天哪。
+
+178
+00:06:38,800 --> 00:06:39,800
+Oh man.
+哦，天哪。
+
+179
+00:06:39,800 --> 00:06:40,800
+Okay.
+好的。
+
+180
+00:06:40,800 --> 00:06:45,720
+So now, the guy, Todd, he tells him, hey sir, it's okay.
+所以现在，那个家伙，托德，他对他说，嘿，先生，没事的。
+
+181
+00:06:45,720 --> 00:06:46,720
+Calm down.
+冷静点。
+
+182
+00:06:46,720 --> 00:06:47,720
+Right?
+对吧？
+
+183
+00:06:47,720 --> 00:06:48,720
+Okay.
+好的。
+
+184
+00:06:48,720 --> 00:06:51,560
+So this might be funny sounding because we say calm.
+所以这听起来可能有点好笑，因为我们说“冷静”。
+
+185
+00:06:51,560 --> 00:06:52,800
+So be calm.
+所以要冷静。
+
+186
+00:06:52,800 --> 00:06:53,800
+Calm down.
+冷静下来。
+
+187
+00:06:53,800 --> 00:06:54,920
+This is a phrase.
+这是一个短语。
+
+188
+00:06:54,920 --> 00:06:58,280
+It's almost like you're so upset and you're standing up.
+就好像你非常沮丧，然后站了起来。
+
+189
+00:06:58,280 --> 00:06:59,280
+Calm down.
+冷静下来。
+
+190
+00:06:59,280 --> 00:07:00,280
+Calm down.
+冷静下来。
+
+191
+00:07:00,280 --> 00:07:01,280
+Cool it.
+别激动。
+
+192
+00:07:01,280 --> 00:07:02,280
+Okay.
+好的。
+
+193
+00:07:02,280 --> 00:07:05,060
+So you tell someone to calm down.
+所以你告诉某人冷静下来。
+
+194
+00:07:05,060 --> 00:07:06,060
+That's right.
+没错。
+
+195
+00:07:06,060 --> 00:07:10,440
+So you might hear a parent say about their child, the child won't calm down.
+所以你可能会听到父母说他们的孩子，孩子不肯冷静下来。
+
+196
+00:07:10,440 --> 00:07:11,440
+What do I do?
+我该怎么办？
+
+197
+00:07:11,440 --> 00:07:12,440
+Mm-hmm.
+嗯哼。
+
+198
+00:07:12,440 --> 00:07:13,440
+Okay.
+好的。
+
+199
+00:07:13,440 --> 00:07:14,440
+So it's a phrase.
+所以这是一个短语。
+
+200
+00:07:14,440 --> 00:07:15,440
+Let's use it together.
+我们一起用它。
+
+201
+00:07:15,440 --> 00:07:16,440
+Calm down.
+冷静下来。
+
+202
+00:07:16,440 --> 00:07:17,440
+Calm down.
+冷静下来。
+
+203
+00:07:17,440 --> 00:07:18,440
+To calm down.
+冷静下来。
+
+204
+00:07:18,440 --> 00:07:19,440
+All right.
+好的。
+
+205
+00:07:19,440 --> 00:07:20,440
+And now for our third phrase.
+现在来看我们的第三个短语。
+
+206
+00:07:20,440 --> 00:07:21,640
+I mean.
+我的意思是。
+
+207
+00:07:21,640 --> 00:07:22,640
+I mean.
+我的意思是。
+
+208
+00:07:22,640 --> 00:07:23,640
+Okay.
+好的。
+
+209
+00:07:23,640 --> 00:07:26,760
+So this is also an interjection and it's very, very, very common.
+所以这也是一个感叹词，而且非常非常常见。
+
+210
+00:07:26,760 --> 00:07:27,760
+Okay.
+好的。
+
+211
+00:07:27,760 --> 00:07:31,640
+So you'll probably hear people when they're talking, they're like, oh, I went over there.
+所以你可能会听到人们在说话时，他们会说，哦，我去了那里。
+
+212
+00:07:31,640 --> 00:07:33,720
+I mean, we went to this place.
+我的意思是，我们去了这个地方。
+
+213
+00:07:33,720 --> 00:07:35,040
+It's an interjection.
+这是一个感叹词。
+
+214
+00:07:35,040 --> 00:07:36,040
+That's right.
+没错。
+
+215
+00:07:36,040 --> 00:07:40,600
+And usually we say this when we want to correct what we just said.
+通常当我们想纠正刚才说的话时，我们会这么说。
+
+216
+00:07:40,600 --> 00:07:43,240
+For example, your computer might have a virus.
+例如，你的电脑可能中了病毒。
+
+217
+00:07:43,240 --> 00:07:46,840
+I mean, it has a bad program on it.
+我的意思是，它上面有一个坏程序。
+
+218
+00:07:46,840 --> 00:07:47,840
+Okay.
+好的。
+
+219
+00:07:47,840 --> 00:07:53,880
+So the computer support man, Todd, he understands maybe this person doesn't know what a virus
+所以电脑支持人员托德，他明白这个人可能不知道什么是病毒。
+
+220
+00:07:53,880 --> 00:07:54,880
+is.
+是什么。
+
+221
+00:07:54,880 --> 00:07:57,120
+So I mean, he's, he's changing what he just said.
+所以我的意思是，他正在改变他刚才说的话。
+
+222
+00:07:57,120 --> 00:08:00,120
+We could say, oh, Saturday, I'm going to the movies.
+我们可以说，哦，周六我要去看电影。
+
+223
+00:08:00,120 --> 00:08:02,440
+I mean, Sunday, I'm going to the movies.
+我的意思是，周日我要去看电影。
+
+224
+00:08:02,440 --> 00:08:03,440
+Okay.
+好的。
+
+225
+00:08:03,440 --> 00:08:04,440
+What are you doing on Sunday?
+你周日要做什么？
+
+226
+00:08:04,440 --> 00:08:05,440
+Okay.
+好的。
+
+227
+00:08:05,440 --> 00:08:06,440
+All right.
+好的。
+
+228
+00:08:06,440 --> 00:08:11,280
+So you use it to correct yourself or maybe further explain something because maybe you
+所以你用它来纠正自己，或者进一步解释某事，因为也许你在谈论一个话题，而对方可能不理解你，所以你想让它更清楚。
+
+229
+00:08:11,280 --> 00:08:16,960
+are talking about a topic and maybe the person is not understanding you so you want to make
+更清楚。
+
+230
+00:08:16,960 --> 00:08:17,960
+it more clear.
+没错。
+
+231
+00:08:17,960 --> 00:08:18,960
+That's right.
+我的意思是。
+
+232
+00:08:18,960 --> 00:08:19,960
+I mean.
+对。
+
+233
+00:08:19,960 --> 00:08:20,960
+Right.
+比如，她对我非常生气。
+
+234
+00:08:20,960 --> 00:08:23,760
+Like, she was very angry at me.
+我的意思是，她当然生气，因为我做错了事。
+
+235
+00:08:23,760 --> 00:08:26,840
+I mean, of course she was because I did something wrong.
+对。
+
+236
+00:08:26,840 --> 00:08:27,840
+Right.
+所以这是一种提供解释的方式。
+
+237
+00:08:27,840 --> 00:08:29,240
+So it's a way to offer an explanation.
+好的。
+
+238
+00:08:29,240 --> 00:08:30,920
+All right.
+所以这周试着在你的口语中使用它。
+
+239
+00:08:30,920 --> 00:08:33,560
+So try and use that one in your speech this week.
+这是一个非常非常棒的常见英语短语。
+
+240
+00:08:33,560 --> 00:08:36,920
+It's really, really great common English phrase.
+好的。
+
+241
+00:08:36,920 --> 00:08:37,920
+All right.
+好的。
+
+242
+00:08:37,920 --> 00:08:41,760
+So why don't we listen to our dialogue for the last time and we'll be back to talk a
+那我们最后再听一遍对话，之后回来再聊一
+
+243
+00:08:41,760 --> 00:08:44,760
+little bit more.
+点。
+
+244
+00:08:44,760 --> 00:08:47,040
+Hello.
+你好。
+
+245
+00:08:47,040 --> 00:08:51,400
+Thanks for calling 123 tech help.
+感谢致电123技术支持。
+
+246
+00:08:51,400 --> 00:08:52,400
+I'm Todd.
+我是托德。
+
+247
+00:08:52,400 --> 00:08:53,400
+How can I help you?
+有什么可以帮您的？
+
+248
+00:08:53,400 --> 00:08:54,400
+Hello.
+你好。
+
+249
+00:08:54,400 --> 00:08:56,400
+Can you help me on my computer?
+你能帮我看看我的电脑吗？
+
+250
+00:08:56,400 --> 00:08:57,800
+Oh man.
+哦，天哪。
+
+251
+00:08:57,800 --> 00:08:58,800
+It's okay, sir.
+没事的，先生。
+
+252
+00:08:58,800 --> 00:08:59,800
+Calm down.
+冷静点。
+
+253
+00:08:59,800 --> 00:09:00,800
+What happened?
+发生什么事了？
+
+254
+00:09:00,800 --> 00:09:02,600
+I turned on my laptop and it broke.
+我打开笔记本电脑，它就坏了。
+
+255
+00:09:02,600 --> 00:09:04,640
+I mean, the monitor went black.
+我是说，屏幕变黑了。
+
+256
+00:09:04,640 --> 00:09:05,840
+Okay, sir.
+好的，先生。
+
+257
+00:09:05,840 --> 00:09:08,400
+It sounds like you might have a virus.
+听起来你可能中了病毒。
+
+258
+00:09:08,400 --> 00:09:09,400
+I don't feel sick.
+我没觉得不舒服啊。
+
+259
+00:09:09,400 --> 00:09:10,400
+Let me check.
+让我检查一下。
+
+260
+00:09:10,400 --> 00:09:11,400
+Nope.
+没有。
+
+261
+00:09:11,400 --> 00:09:12,400
+No fever.
+没发烧。
+
+262
+00:09:12,400 --> 00:09:13,400
+I'm fine.
+我很好。
+
+263
+00:09:13,400 --> 00:09:16,680
+No, your computer might have a virus.
+不，是你的电脑可能中了病毒。
+
+264
+00:09:16,680 --> 00:09:19,840
+I mean, it has a bad program on it.
+我是说，它里面有个坏程序。
+
+265
+00:09:19,840 --> 00:09:21,520
+Maybe that's why it crashed.
+也许这就是它死机的原因。
+
+266
+00:09:21,520 --> 00:09:26,840
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware
+我建议你运行一个杀毒程序，以便安全地移除任何不需要的间谍软件
+
+267
+00:09:26,840 --> 00:09:28,400
+or Trojans.
+或木马。
+
+268
+00:09:28,400 --> 00:09:29,960
+Phew.
+呼。
+
+269
+00:09:29,960 --> 00:09:30,960
+Wait a minute.
+等一下。
+
+270
+00:09:30,960 --> 00:09:31,960
+Crash?
+死机？
+
+271
+00:09:31,960 --> 00:09:32,960
+Spyware?
+间谍软件？
+
+272
+00:09:32,960 --> 00:09:33,960
+Trojans?
+木马？
+
+273
+00:09:33,960 --> 00:09:34,960
+What?
+什么？
+
+274
+00:09:34,960 --> 00:09:35,960
+Where?
+哪里？
+
+275
+00:09:35,960 --> 00:09:36,960
+When?
+什么时候？
+
+276
+00:09:36,960 --> 00:09:37,960
+All right.
+好的。
+
+277
+00:09:37,960 --> 00:09:49,600
+So Marco, in today's dialogue, we heard a couple of strange words about computer viruses.
+那么马可，在今天的对话中，我们听到了几个关于电脑病毒的奇怪词汇。
+
+278
+00:09:49,600 --> 00:09:54,960
+One of them you might be familiar with from Greek stories and fables.
+其中一个你可能从希腊故事和寓言中熟悉。
+
+279
+00:09:54,960 --> 00:09:55,960
+A Trojan.
+木马。
+
+280
+00:09:55,960 --> 00:09:56,960
+All right.
+好的。
+
+281
+00:09:56,960 --> 00:09:57,960
+A Trojan.
+木马。
+
+282
+00:09:57,960 --> 00:10:02,320
+So it's a kind of bad software that will hurt your computer.
+这是一种会伤害你电脑的恶意软件。
+
+283
+00:10:02,320 --> 00:10:07,800
+Yeah, it's a type of virus that comes in and it's supposed to be a good program or not
+是的，这是一种病毒，它进来时假装是个好程序或者不会
+
+284
+00:10:07,800 --> 00:10:10,640
+harm your computer, but it's really just a lie.
+伤害你的电脑，但实际上只是个谎言。
+
+285
+00:10:10,640 --> 00:10:14,720
+It's disguised as something else and then it starts to really ruin your computer.
+它伪装成别的东西，然后开始真正破坏你的电脑。
+
+286
+00:10:14,720 --> 00:10:15,880
+They're very, very dangerous.
+它们非常非常危险。
+
+287
+00:10:15,880 --> 00:10:16,880
+Yeah.
+是的。
+
+288
+00:10:16,880 --> 00:10:18,560
+So why do you think it's called a Trojan?
+那你觉得为什么它叫木马？
+
+289
+00:10:18,560 --> 00:10:19,560
+I don't know.
+我不知道。
+
+290
+00:10:19,560 --> 00:10:25,040
+Probably because of a Troy something, because it's very difficult like a Trojan.
+可能是因为特洛伊什么的，因为它像木马一样很难对付。
+
+291
+00:10:25,040 --> 00:10:28,400
+Well, think about the story of the Trojan horse, right?
+嗯，想想特洛伊木马的故事，对吧？
+
+292
+00:10:28,400 --> 00:10:29,400
+You know that story.
+你知道那个故事。
+
+293
+00:10:29,400 --> 00:10:36,280
+So back in ancient Greece, there was a war happening and Troy wanted to defeat its enemy
+在古希腊时期，有一场战争，特洛伊想打败它的敌人
+
+294
+00:10:36,280 --> 00:10:37,720
+and they didn't know how to do it.
+但他们不知道怎么做。
+
+295
+00:10:37,720 --> 00:10:41,800
+So they thought and thought and thought and they came up with an idea.
+所以他们想了又想，终于想出了一个主意。
+
+296
+00:10:41,800 --> 00:10:46,760
+They would build a horse and they would give it as a gift, but inside the horse would be
+他们建造了一匹马，把它作为礼物送出，但马里面藏着
+
+297
+00:10:46,760 --> 00:10:48,440
+warriors, fighters.
+战士、斗士。
+
+298
+00:10:48,440 --> 00:10:54,680
+So when the city opened its doors to this wonderful gift, they would receive a horrible
+所以当城市打开大门迎接这个美妙的礼物时，他们收到的却是一个可怕的
+
+299
+00:10:54,680 --> 00:10:56,440
+gift and attack.
+礼物，并遭到攻击。
+
+300
+00:10:56,440 --> 00:10:57,960
+And so Trojan is like that.
+木马就像那样。
+
+301
+00:10:57,960 --> 00:11:03,180
+It's like software that you think is safe, but then it attacks your computer by surprise.
+它就像你以为是安全的软件，但随后它突然攻击你的电脑。
+
+302
+00:11:03,180 --> 00:11:04,180
+They're very dangerous.
+它们非常危险。
+
+303
+00:11:04,180 --> 00:11:09,760
+And now things have come up like Trojans and worms and a lot of different names for them.
+现在出现了像木马、蠕虫等很多不同的名称。
+
+304
+00:11:09,760 --> 00:11:14,380
+But it's crazy now, although I hear Mac users don't have these problems.
+但现在很疯狂，不过我听说Mac用户没有这些问题。
+
+305
+00:11:14,380 --> 00:11:15,380
+We do not.
+我们没有。
+
+306
+00:11:15,380 --> 00:11:21,840
+If you use a Macintosh computer, you probably have very few problems with viruses and things
+如果你使用Macintosh电脑，你很可能很少遇到病毒之类的问题
+
+307
+00:11:21,840 --> 00:11:22,840
+like that.
+。
+
+308
+00:11:22,840 --> 00:11:23,840
+Wow.
+哇。
+
+309
+00:11:23,840 --> 00:11:25,440
+So we're all in favor for Mac users.
+所以我们全都支持Mac用户。
+
+310
+00:11:25,440 --> 00:11:26,440
+Absolutely.
+绝对。
+
+311
+00:11:26,440 --> 00:11:27,440
+So let us know.
+所以告诉我们吧。
+
+312
+00:11:27,440 --> 00:11:29,240
+Have you had problems with a virus on your computer?
+你的电脑遇到过病毒问题吗？
+
+313
+00:11:29,240 --> 00:11:31,000
+Have you ever called tech support?
+你曾经打过技术支持电话吗？
+
+314
+00:11:31,000 --> 00:11:32,840
+Our website is EnglishPod.com.
+我们的网站是EnglishPod.com。
+
+315
+00:11:32,840 --> 00:11:33,840
+We hope to see you there.
+希望在那里见到你。
+
+316
+00:11:33,840 --> 00:11:34,840
+All right.
+好的。
+
+317
+00:11:34,840 --> 00:11:35,840
+Bye, everyone.
+大家再见。
+
+318
+00:11:35,840 --> 00:11:54,840
+Thanks for watching.
+感谢观看。

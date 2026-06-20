@@ -1,0 +1,1539 @@
+1
+00:00:00,000 --> 00:00:04,320
+Hello English learners.
+英语学习者你们好。
+
+2
+00:00:04,320 --> 00:00:07,920
+Welcome back to another advanced lesson here at EnglishPod.
+欢迎回到 EnglishPod 的又一节高级课程。
+
+3
+00:00:07,920 --> 00:00:08,960
+My name is Marco.
+我是 Marco。
+
+4
+00:00:08,960 --> 00:00:10,320
+And I'm Erica.
+我是 Erica。
+
+5
+00:00:10,320 --> 00:00:12,960
+And today we're going to be back in the office.
+今天我们要回到办公室场景。
+
+6
+00:00:12,960 --> 00:00:13,960
+That's right.
+没错。
+
+7
+00:00:13,960 --> 00:00:19,520
+We are listening in as somebody gets a little bit of trouble from their boss for being a
+我们将听到有人因为项目进度有点落后而被老板训斥。
+
+8
+00:00:19,520 --> 00:00:21,280
+bit late on a project.
+有点晚了。
+
+9
+00:00:21,280 --> 00:00:23,480
+Alright so we're going to be at the office.
+好的，所以我们要在办公室里。
+
+10
+00:00:23,480 --> 00:00:28,160
+Somebody misses a deadline and so well how do you handle the situation?
+有人错过了截止日期，那么你该如何处理这种情况？
+
+11
+00:00:28,160 --> 00:00:30,920
+What can you do to explain yourself?
+你能做些什么来解释自己？
+
+12
+00:00:30,920 --> 00:00:36,240
+And what language can you actually use to talk about missed deadlines and late work?
+实际上你可以用什么语言来谈论错过截止日期和工作延误？
+
+13
+00:00:36,240 --> 00:00:51,960
+Alright so let's see why this person missed the deadline and let's find out what happens.
+好的，让我们看看这个人为什么错过了截止日期，并看看发生了什么。
+
+14
+00:00:51,960 --> 00:00:56,880
+And so I just wanted to check in with you and find out where we are with this project.
+我只是想跟你确认一下，看看这个项目的进展如何。
+
+15
+00:00:56,880 --> 00:01:01,280
+As you know, you missed a fairly significant deadline last week and this will negatively
+你知道，上周你错过了一个相当重要的截止日期，这会对团队推进项目下一阶段的能力产生负面影响。
+
+16
+00:01:01,280 --> 00:01:06,280
+impact the team's ability to move forward with the next stages of this project.
+影响团队推进项目下一阶段的能力。
+
+17
+00:01:06,280 --> 00:01:07,360
+I know.
+我知道。
+
+18
+00:01:07,360 --> 00:01:09,000
+I'm really sorry that I missed the deadline.
+我很抱歉错过了截止日期。
+
+19
+00:01:09,000 --> 00:01:10,960
+But really it wasn't my fault.
+但真的不是我的错。
+
+20
+00:01:10,960 --> 00:01:15,840
+You see we had all of these unexpected technical problems at the last minute and I couldn't
+你看，我们在最后一刻遇到了所有这些意想不到的技术问题，我无法
+
+21
+00:01:15,840 --> 00:01:19,960
+get into the database and extract the kind of information that I needed for the data
+进入数据库并提取我进行数据分析所需的那种信息。
+
+22
+00:01:19,960 --> 00:01:20,960
+analysis.
+数据分析。
+
+23
+00:01:20,960 --> 00:01:26,500
+You know if the tech guys would have done their job and kept the CRM stable then I wouldn't
+你知道，如果技术人员做好他们的工作，保持 CRM 稳定，我就不会
+
+24
+00:01:26,500 --> 00:01:27,840
+have missed my deadline.
+错过我的截止日期。
+
+25
+00:01:27,840 --> 00:01:29,360
+Oh come on!
+哦，得了吧！
+
+26
+00:01:29,360 --> 00:01:32,400
+An excuse like that is tantamount to lying.
+像这样的借口无异于撒谎。
+
+27
+00:01:32,400 --> 00:01:37,020
+You're essentially blaming the tech team for your time management issues rather than accepting
+你本质上是在把你的时间管理问题归咎于技术团队，而不是接受
+
+28
+00:01:37,020 --> 00:01:41,760
+responsibility for the fact that you were procrastinating for the past two weeks.
+你过去两周一直在拖延的事实。
+
+29
+00:01:41,760 --> 00:01:44,040
+No I'm not trying to pass the buck here.
+不，我不是想推卸责任。
+
+30
+00:01:44,040 --> 00:01:47,600
+I know it was me who was ultimately responsible for getting this done.
+我知道最终负责完成这件事的人是我。
+
+31
+00:01:47,600 --> 00:01:52,400
+But the thing is I could have finished on time if the system hadn't gone down.
+但问题是，如果系统没有宕机，我本可以按时完成的。
+
+32
+00:01:52,400 --> 00:01:56,880
+And you know with everything I've got going on now I can't afford to waste time dealing
+而且你知道，我现在手头有这么多事，我可没时间浪费在处理
+
+33
+00:01:56,880 --> 00:01:57,880
+with technical problems.
+技术问题上。
+
+34
+00:01:57,880 --> 00:02:01,800
+I've got a lot on my plate and there are only 24 hours in a day.
+我手头事情很多，一天只有 24 小时。
+
+35
+00:02:01,800 --> 00:02:05,040
+I'm not going to accept this excuse.
+我不会接受这个借口。
+
+36
+00:02:05,040 --> 00:02:09,640
+You're using these small technical glitches as a crutch and trying to rationalize the
+你把这些小的技术故障当作拐杖，试图合理化
+
+37
+00:02:09,640 --> 00:02:11,680
+fact that you've missed your deadline.
+你错过截止日期的事实。
+
+38
+00:02:11,680 --> 00:02:16,040
+Look we have standards and I expect you to live up to those standards.
+听着，我们有标准，我希望你能达到这些标准。
+
+39
+00:02:16,040 --> 00:02:18,140
+No more phony excuses.
+别再找虚假的借口了。
+
+40
+00:02:18,140 --> 00:02:20,520
+If you're in over your head you tell me.
+如果你应付不来，就告诉我。
+
+41
+00:02:20,520 --> 00:02:22,160
+No more missed deadlines.
+别再错过截止日期了。
+
+42
+00:02:22,160 --> 00:02:33,640
+Now I want that data on my desk by 9 a.m.
+现在，我要那份数据在早上 9 点之前放在我桌上。
+
+43
+00:02:33,640 --> 00:02:38,040
+Well it sounds like this guy isn't really accepting a lot of the responsibility for
+嗯，听起来这家伙并没有真正承担很多责任
+
+44
+00:02:38,040 --> 00:02:39,480
+his missed deadline.
+对于他错过截止日期这件事。
+
+45
+00:02:39,480 --> 00:02:40,480
+Exactly.
+没错。
+
+46
+00:02:40,480 --> 00:02:44,160
+Well apparently he's explaining that it wasn't only his fault.
+嗯，显然他在解释这不全是他的错。
+
+47
+00:02:44,160 --> 00:02:45,160
+Yeah.
+是的。
+
+48
+00:02:45,160 --> 00:02:49,760
+So some technical problems but you know he used a lot of pretty pretty interesting language
+所以是一些技术问题，但你知道他用了很多非常有趣的语言，
+
+49
+00:02:49,760 --> 00:02:55,040
+and I think it'll help us to look at that now in Language Takeaway.
+我认为现在在“语言要点”环节看看这些会很有帮助。
+
+50
+00:02:55,040 --> 00:02:56,040
+Language Takeaway.
+语言要点。
+
+51
+00:02:56,040 --> 00:02:57,040
+All right.
+好的。
+
+52
+00:02:57,040 --> 00:03:02,360
+So on Language Takeaway today we have five words and let's start with the first one.
+那么在今天的“语言要点”中，我们有五个单词，让我们从第一个开始。
+
+53
+00:03:02,360 --> 00:03:03,360
+All right.
+好的。
+
+54
+00:03:03,360 --> 00:03:08,440
+Well the boss is not really happy with the excuse that the employee was giving and he
+嗯，老板对员工给出的借口不太满意，他
+
+55
+00:03:08,440 --> 00:03:13,080
+said an excuse like that is tantamount to lying.
+说像这样的借口无异于撒谎。
+
+56
+00:03:13,080 --> 00:03:14,560
+Tantamount.
+无异于。
+
+57
+00:03:14,560 --> 00:03:16,400
+Tantamount to something.
+无异于某事。
+
+58
+00:03:16,400 --> 00:03:21,520
+OK so if an excuse like that is tantamount to lying what is what is he trying to say
+好的，所以如果一个借口无异于撒谎，他在这里想表达什么
+
+59
+00:03:21,520 --> 00:03:22,520
+here.
+意思？
+
+60
+00:03:22,520 --> 00:03:25,200
+Basically it's the same as or it's almost the same as.
+基本上就是等同于，或者几乎等同于。
+
+61
+00:03:25,200 --> 00:03:26,800
+So similar to.
+所以类似于。
+
+62
+00:03:26,800 --> 00:03:30,520
+So if I say tantamount to something else how would I use it.
+所以如果我说“无异于”其他东西，我该怎么用？
+
+63
+00:03:30,520 --> 00:03:34,940
+You know Marco taking my computer without asking is tantamount to stealing.
+你知道，Marco，未经允许拿我的电脑无异于偷窃。
+
+64
+00:03:34,940 --> 00:03:38,960
+OK so even though I'm not actually stealing it or taking it home with me.
+好的，所以即使我实际上没有偷它或把它带回家。
+
+65
+00:03:38,960 --> 00:03:39,960
+Yeah.
+是的。
+
+66
+00:03:39,960 --> 00:03:41,120
+It is almost like stealing.
+这几乎就像偷窃。
+
+67
+00:03:41,120 --> 00:03:42,120
+Yeah.
+是的。
+
+68
+00:03:42,120 --> 00:03:46,480
+And the interesting grammatical thing here is that we almost always use a gerund right
+这里一个有趣的语法点是，我们几乎总是在后面用动名词，对吧？
+
+69
+00:03:46,480 --> 00:03:49,040
+after so tantamount to verb ing.
+所以是“无异于 + 动词 ing”。
+
+70
+00:03:49,040 --> 00:03:54,080
+OK tantamount to stealing tantamount to lying tantamount to killing.
+好的，“无异于偷窃”、“无异于撒谎”、“无异于杀人”。
+
+71
+00:03:54,080 --> 00:03:55,080
+OK.
+好的。
+
+72
+00:03:55,080 --> 00:03:58,200
+Well on that happy note let's go on to our next word.
+嗯，带着这个愉快的点，我们继续下一个词。
+
+73
+00:03:58,200 --> 00:04:04,920
+Now the boss was really unhappy with the employee for procrastinating.
+现在老板对员工拖延非常不满。
+
+74
+00:04:04,920 --> 00:04:06,680
+Procrastinating.
+拖延。
+
+75
+00:04:06,680 --> 00:04:07,680
+Procrastinating.
+拖延。
+
+76
+00:04:07,680 --> 00:04:09,720
+So the verb is to procrastinate.
+所以动词是“拖延”。
+
+77
+00:04:09,720 --> 00:04:15,000
+And when you procrastinate you say I'll do it later I'll do it tomorrow.
+当你拖延时，你会说“我晚点再做”、“我明天再做”。
+
+78
+00:04:15,000 --> 00:04:18,680
+OK so you kind of delay things or you leave it for another day.
+好的，所以你有点推迟事情，或者留到另一天。
+
+79
+00:04:18,680 --> 00:04:19,680
+Yeah.
+是的。
+
+80
+00:04:19,680 --> 00:04:20,680
+All right.
+好的。
+
+81
+00:04:20,680 --> 00:04:21,680
+Very good.
+非常好。
+
+82
+00:04:21,680 --> 00:04:22,680
+So to procrastinate.
+所以是“拖延”。
+
+83
+00:04:22,680 --> 00:04:25,800
+A favorite verb amongst college students.
+大学生最喜欢的动词。
+
+84
+00:04:25,800 --> 00:04:32,040
+I actually thought for a little while that procrastinate was to have babies.
+我其实有一阵子以为“拖延”是生孩子。
+
+85
+00:04:32,040 --> 00:04:33,040
+Oh.
+哦。
+
+86
+00:04:33,040 --> 00:04:34,040
+Oh.
+哦。
+
+87
+00:04:34,040 --> 00:04:35,040
+OK.
+好的。
+
+88
+00:04:35,040 --> 00:04:36,040
+It's kind of similar.
+有点相似。
+
+89
+00:04:36,040 --> 00:04:37,040
+What's the word.
+那个词是什么？
+
+90
+00:04:37,040 --> 00:04:38,040
+Procreate.
+生育。
+
+91
+00:04:38,040 --> 00:04:39,040
+Procreate.
+生育。
+
+92
+00:04:39,040 --> 00:04:41,840
+So I thought procrastinate was like having babies like why are you procrastinating.
+所以我以为“拖延”就像生孩子，比如“你为什么在拖延？”
+
+93
+00:04:41,840 --> 00:04:43,800
+And I'm like I'm not.
+然后我说“我没有”。
+
+94
+00:04:43,800 --> 00:04:45,480
+Well glad you got that straight.
+嗯，很高兴你搞清楚了。
+
+95
+00:04:45,480 --> 00:04:49,800
+So yes our listeners procrastinate is not the same as procreate.
+所以是的，我们的听众，“拖延”和“生育”不一样。
+
+96
+00:04:49,800 --> 00:04:50,800
+OK.
+好的。
+
+97
+00:04:50,800 --> 00:04:52,760
+I learned that the hard way.
+我是通过惨痛教训学到的。
+
+98
+00:04:52,760 --> 00:04:53,760
+Yes.
+是的。
+
+99
+00:04:53,760 --> 00:04:57,640
+Well it sounds like you had a little bit of a glitch in your understanding of language
+嗯，听起来你在语言理解上有点小故障，
+
+100
+00:04:57,640 --> 00:04:59,160
+and that's our next phrase.
+这就是我们的下一个短语。
+
+101
+00:04:59,160 --> 00:05:03,760
+So in the dialogue they were talking about some glitches with the system.
+所以在对话中，他们谈到了一些系统故障。
+
+102
+00:05:03,760 --> 00:05:05,600
+A glitch in the system.
+系统故障。
+
+103
+00:05:05,600 --> 00:05:06,600
+OK.
+好的。
+
+104
+00:05:06,600 --> 00:05:07,600
+So a glitch.
+所以是“故障”。
+
+105
+00:05:07,600 --> 00:05:10,000
+Now this is common among computers right.
+这在电脑中很常见，对吧？
+
+106
+00:05:10,000 --> 00:05:11,920
+A glitch is an error.
+故障就是错误。
+
+107
+00:05:11,920 --> 00:05:12,920
+Right.
+对。
+
+108
+00:05:12,920 --> 00:05:16,200
+So when you're talking about a glitch and you're talking about computers it's an error
+所以当你谈论故障，并且你在谈论电脑时，它是一个错误、
+
+109
+00:05:16,200 --> 00:05:17,280
+a mistake.
+一个失误。
+
+110
+00:05:17,280 --> 00:05:20,760
+But we also use it to talk about any unexpected problem.
+但我们也用它来谈论任何意想不到的问题。
+
+111
+00:05:20,760 --> 00:05:22,440
+A small unexpected problem.
+一个小的意想不到的问题。
+
+112
+00:05:22,440 --> 00:05:23,440
+OK.
+好的。
+
+113
+00:05:23,440 --> 00:05:24,440
+So a small glitch.
+所以一个小故障。
+
+114
+00:05:24,440 --> 00:05:25,440
+Yeah.
+是的。
+
+115
+00:05:25,440 --> 00:05:28,700
+There was a glitch in our plan and we arrived 10 minutes late.
+我们的计划出了个小故障，我们迟到了 10 分钟。
+
+116
+00:05:28,700 --> 00:05:32,580
+Or I can say this movie has a glitch in the story.
+或者我可以说这部电影的故事有个故障。
+
+117
+00:05:32,580 --> 00:05:35,480
+So there's a small problem in the story that doesn't make sense.
+所以故事里有个小问题，说不通。
+
+118
+00:05:35,480 --> 00:05:36,480
+Exactly.
+没错。
+
+119
+00:05:36,480 --> 00:05:37,480
+All right.
+好的。
+
+120
+00:05:37,480 --> 00:05:43,320
+So the boss was blaming his lateness on these small technical glitches.
+所以老板把他的延误归咎于这些小技术故障。
+
+121
+00:05:43,320 --> 00:05:45,760
+But the boss didn't believe this right.
+但老板不相信这个，对吧？
+
+122
+00:05:45,760 --> 00:05:50,800
+The boss said you're trying to rationalize the fact that you missed the deadline.
+老板说你在试图合理化你错过截止日期的事实。
+
+123
+00:05:50,800 --> 00:05:51,800
+OK.
+好的。
+
+124
+00:05:51,800 --> 00:05:53,240
+To rationalize.
+合理化。
+
+125
+00:05:53,240 --> 00:05:54,700
+To rationalize.
+合理化。
+
+126
+00:05:54,700 --> 00:05:58,160
+So the boss is saying that he's trying to rationalize.
+所以老板说他在试图合理化。
+
+127
+00:05:58,160 --> 00:06:02,080
+So that means is he trying to make sense of it.
+那意味着他在试图让它说得通吗？
+
+128
+00:06:02,080 --> 00:06:05,680
+Well this is an interesting psychological word.
+嗯，这是一个有趣的心理学词汇。
+
+129
+00:06:05,680 --> 00:06:10,640
+Because when you rationalize something you think about it or describe it like especially
+因为当你合理化某件事时，你会思考或描述它，尤其是
+
+130
+00:06:10,640 --> 00:06:17,900
+some bad behavior in a way that makes it seem better or proper or more sensible.
+一些不好的行为，以一种让它看起来更好、更恰当或更合理的方式。
+
+131
+00:06:17,900 --> 00:06:20,400
+So you're trying to convince yourself.
+所以你在试图说服自己。
+
+132
+00:06:20,400 --> 00:06:21,400
+Yeah.
+是的。
+
+133
+00:06:21,400 --> 00:06:24,440
+You're telling other people but you're also telling yourself that it's better.
+你在告诉别人，但也在告诉自己它更好。
+
+134
+00:06:24,440 --> 00:06:25,440
+OK.
+好的。
+
+135
+00:06:25,440 --> 00:06:27,080
+Or that you're right when you're actually wrong.
+或者你是对的，而实际上你是错的。
+
+136
+00:06:27,080 --> 00:06:28,080
+Yes.
+是的。
+
+137
+00:06:28,080 --> 00:06:29,080
+Yeah.
+是的。
+
+138
+00:06:29,080 --> 00:06:30,080
+OK.
+好的。
+
+139
+00:06:30,080 --> 00:06:31,780
+So he was trying to rationalize the fact that he missed the deadline.
+所以他试图合理化他错过截止日期的事实。
+
+140
+00:06:31,780 --> 00:06:36,960
+So he was trying to explain to the boss and also kind of make himself believe that it
+所以他试图向老板解释，同时也让自己相信
+
+141
+00:06:36,960 --> 00:06:39,360
+wasn't really his fault when it was.
+这真的不是他的错，而实际上是他的错。
+
+142
+00:06:39,360 --> 00:06:43,680
+Now because this is a little bit of a difficult concept to understand I think we should hear
+因为这是一个有点难理解的概念，我认为我们应该听一些
+
+143
+00:06:43,680 --> 00:06:45,680
+some examples.
+例子。
+
+144
+00:06:45,680 --> 00:06:47,460
+Example one.
+例子一。
+
+145
+00:06:47,460 --> 00:06:53,680
+You can't rationalize your son's behavior by saying he's going through a hard time.
+你不能通过说他正在经历困难时期来合理化你儿子的行为。
+
+146
+00:06:53,680 --> 00:06:56,120
+Example two.
+例子二。
+
+147
+00:06:56,120 --> 00:07:02,440
+As much as I tried I couldn't rationalize buying such an expensive pair of shoes.
+尽管我努力了，我还是无法合理化买这么贵的一双鞋。
+
+148
+00:07:02,440 --> 00:07:05,140
+Example three.
+例子三。
+
+149
+00:07:05,140 --> 00:07:06,920
+You know it was the wrong thing to do.
+你知道那是错事。
+
+150
+00:07:06,920 --> 00:07:09,520
+Stop trying to rationalize it.
+别再试图合理化它了。
+
+151
+00:07:09,520 --> 00:07:10,520
+OK.
+好的。
+
+152
+00:07:10,520 --> 00:07:13,480
+So clear as daylight now this word rationalize.
+所以现在这个词“合理化”非常清楚了。
+
+153
+00:07:13,480 --> 00:07:14,960
+All right.
+好的。
+
+154
+00:07:14,960 --> 00:07:16,280
+In our final word.
+最后一个词。
+
+155
+00:07:16,280 --> 00:07:23,080
+So the boss really wasn't happy with these excuses and he said no more phony excuses.
+所以老板对这些借口非常不满，他说“别再找虚假的借口了”。
+
+156
+00:07:23,080 --> 00:07:24,080
+OK.
+好的。
+
+157
+00:07:24,080 --> 00:07:25,080
+Phony.
+虚假的。
+
+158
+00:07:25,080 --> 00:07:26,080
+Phony.
+虚假的。
+
+159
+00:07:26,080 --> 00:07:27,080
+P-H-O-N-Y.
+P-H-O-N-Y。
+
+160
+00:07:27,080 --> 00:07:28,080
+Phony.
+虚假的。
+
+161
+00:07:28,080 --> 00:07:31,680
+So phony is basically false or fake.
+所以“虚假的”基本上就是假的或伪造的。
+
+162
+00:07:31,680 --> 00:07:32,680
+Right.
+对。
+
+163
+00:07:32,680 --> 00:07:33,680
+So a phony statement.
+所以一个虚假的陈述。
+
+164
+00:07:33,680 --> 00:07:35,240
+A phony watch.
+一块假表。
+
+165
+00:07:35,240 --> 00:07:36,240
+OK.
+好的。
+
+166
+00:07:36,240 --> 00:07:37,240
+A fake watch.
+一块假表。
+
+167
+00:07:37,240 --> 00:07:38,240
+Yeah.
+是的。
+
+168
+00:07:38,240 --> 00:07:39,240
+Not a Sony watch but a phony watch.
+不是索尼表，而是假表。
+
+169
+00:07:39,240 --> 00:07:40,240
+A phony.
+假的。
+
+170
+00:07:40,240 --> 00:07:45,720
+So a lot of great words in this dialogue but as you mentioned we also saw some very interesting
+这个对话中有很多好词，但正如你提到的，我们也看到了一些非常有趣的
+
+171
+00:07:45,720 --> 00:07:49,040
+phrases that we can use in situations like this.
+短语，可以在这种情况下使用。
+
+172
+00:07:49,040 --> 00:07:54,200
+So why don't we start now with Fluency Builder.
+所以我们为什么不现在从“流利度构建”开始。
+
+173
+00:07:54,200 --> 00:07:55,200
+Fluency Builder.
+流利度构建。
+
+174
+00:07:55,200 --> 00:07:59,520
+Well you know one of the interesting things about English is that we have a lot of ways
+嗯，你知道英语的一个有趣之处在于我们有很多方法
+
+175
+00:07:59,520 --> 00:08:06,240
+to make things sound more direct less direct harder or softer and in this dialogue there
+让事情听起来更直接、更不直接、更硬或更软，在这个对话中
+
+176
+00:08:06,240 --> 00:08:13,040
+are a few examples of how we use softening words to but just to do the opposite to actually
+有几个例子说明我们如何使用软化词，但恰恰相反，实际上
+
+177
+00:08:13,040 --> 00:08:14,560
+make it a little strong.
+让它更强硬一点。
+
+178
+00:08:14,560 --> 00:08:15,560
+OK.
+好的。
+
+179
+00:08:15,560 --> 00:08:19,640
+So why don't we start with the first paragraph in the first part of the dialogue.
+所以我们为什么不从对话的第一部分的第一段开始。
+
+180
+00:08:19,640 --> 00:08:23,200
+He said you missed a fairly significant deadline.
+他说“你错过了一个相当重要的截止日期”。
+
+181
+00:08:23,200 --> 00:08:25,040
+A fairly significant deadline.
+一个相当重要的截止日期。
+
+182
+00:08:25,040 --> 00:08:28,360
+Now this word fairly kind of sort of.
+现在这个词“相当”有点、算是。
+
+183
+00:08:28,360 --> 00:08:30,160
+So it's not very significant.
+所以不是非常重要。
+
+184
+00:08:30,160 --> 00:08:31,160
+It's kind of significant.
+是有点重要。
+
+185
+00:08:31,160 --> 00:08:32,160
+Yeah.
+是的。
+
+186
+00:08:32,160 --> 00:08:36,380
+But in this context when when the person is saying it it just sounds a little bit softer
+但在这个上下文中，当说话者说这句话时，它听起来有点柔和，
+
+187
+00:08:36,380 --> 00:08:40,480
+but your understanding is it's a very important deadline.
+但你的理解是这是一个非常重要的截止日期。
+
+188
+00:08:40,480 --> 00:08:41,480
+OK.
+好的。
+
+189
+00:08:41,480 --> 00:08:42,720
+A very important deadline.
+一个非常重要的截止日期。
+
+190
+00:08:42,720 --> 00:08:49,320
+So another similar example of this is the boss was saying you're essentially blaming
+另一个类似的例子是老板说“你本质上是在责怪
+
+191
+00:08:49,320 --> 00:08:50,480
+the tech team.
+技术团队”。
+
+192
+00:08:50,480 --> 00:08:51,480
+OK.
+好的。
+
+193
+00:08:51,480 --> 00:08:52,780
+You're essentially blaming.
+“你本质上是在责怪”。
+
+194
+00:08:52,780 --> 00:08:57,800
+So essentially is like basically or pretty much.
+所以“本质上”就像“基本上”或“差不多”。
+
+195
+00:08:57,800 --> 00:09:02,840
+So it sounds a little softer but what he's actually really saying is you're doing this.
+所以听起来柔和一点，但他实际上真正说的是你在做这件事。
+
+196
+00:09:02,840 --> 00:09:03,840
+Right.
+对。
+
+197
+00:09:03,840 --> 00:09:07,880
+So instead of saying you're blaming the tech team he adds this word essentially to kind
+所以他没有说“你在责怪技术团队”，而是加了“本质上”这个词来
+
+198
+00:09:07,880 --> 00:09:10,640
+of say well basically you're saying it's their fault.
+说“嗯，基本上你在说是他们的错”。
+
+199
+00:09:10,640 --> 00:09:11,640
+Yeah.
+是的。
+
+200
+00:09:11,640 --> 00:09:15,880
+But the context or you understand that it's actually very direct and he's saying it's
+但上下文或你的理解是，这实际上非常直接，他在说这是
+
+201
+00:09:15,880 --> 00:09:16,880
+your fault.
+你的错。
+
+202
+00:09:16,880 --> 00:09:17,880
+Yeah.
+是的。
+
+203
+00:09:17,880 --> 00:09:21,120
+So he's he's he's saying you're almost blaming the tech team but what he means is you're
+所以他是在说，你几乎是在责怪技术团队，但他的意思是你在
+
+204
+00:09:21,120 --> 00:09:23,200
+blaming the tech team.
+责怪技术团队。
+
+205
+00:09:23,200 --> 00:09:27,880
+Now our third phrase is very interesting because it's kind of like a saying.
+现在我们的第三个短语很有趣，因为它有点像一句俗语。
+
+206
+00:09:27,880 --> 00:09:28,880
+That's right.
+没错。
+
+207
+00:09:28,880 --> 00:09:32,040
+So the employee says I'm not trying to pass the buck here.
+所以员工说：“我不是想推卸责任。”
+
+208
+00:09:32,040 --> 00:09:34,040
+I'm not trying to pass the buck here.
+我不是想推卸责任。
+
+209
+00:09:34,040 --> 00:09:35,800
+I'm not trying to pass the buck.
+我不是想推卸责任。
+
+210
+00:09:35,800 --> 00:09:37,240
+Now what's the buck.
+那么“buck”是什么？
+
+211
+00:09:37,240 --> 00:09:38,240
+A dollar bill.
+一美元钞票。
+
+212
+00:09:38,240 --> 00:09:39,480
+A dollar bill.
+一美元钞票。
+
+213
+00:09:39,480 --> 00:09:44,400
+So he's well I understand that he's saying I'm not trying to blame somebody else or pass
+所以他是在说，我明白他的意思是他不是在责怪别人或把
+
+214
+00:09:44,400 --> 00:09:47,040
+the blame on to someone else.
+责任推给别人。
+
+215
+00:09:47,040 --> 00:09:48,320
+But you can think about it like this.
+但你可以这样想。
+
+216
+00:09:48,320 --> 00:09:51,640
+Like imagine he had some fake or phony money right.
+就像想象他有一些假币或伪钞，对吧。
+
+217
+00:09:51,640 --> 00:09:55,160
+And he wants to pass that on to the next person so he doesn't get in trouble.
+他想把这些传给下一个人，这样他就不会惹上麻烦。
+
+218
+00:09:55,160 --> 00:09:56,160
+OK.
+好的。
+
+219
+00:09:56,160 --> 00:09:57,280
+So I'm not trying to pass the buck.
+所以我不是想推卸责任。
+
+220
+00:09:57,280 --> 00:10:02,360
+I'm not trying to pass the blame put the responsibility on someone else.
+我不是想把责任推给别人，把责任转嫁出去。
+
+221
+00:10:02,360 --> 00:10:03,360
+Very good.
+很好。
+
+222
+00:10:03,360 --> 00:10:06,000
+But you know what you know what he really means here.
+但你知道他真正想表达的是什么吗？
+
+223
+00:10:06,000 --> 00:10:09,120
+What I am trying to do that because he knew.
+我之所以这么做，是因为他知道。
+
+224
+00:10:09,120 --> 00:10:11,120
+He knew that it was a fake dollar bill.
+他知道那是一张假美元。
+
+225
+00:10:11,120 --> 00:10:12,120
+Yeah.
+是的。
+
+226
+00:10:12,120 --> 00:10:13,120
+Yeah.
+是的。
+
+227
+00:10:13,120 --> 00:10:14,120
+Yeah.
+是的。
+
+228
+00:10:14,120 --> 00:10:18,720
+And this is interesting as well because it's kind of like a metaphor.
+这也很有趣，因为它有点像一种比喻。
+
+229
+00:10:18,720 --> 00:10:24,340
+He said the boss said you're using the small technical glitches as a crutch.
+他说老板说：“你在用小的技术故障当拐杖。”
+
+230
+00:10:24,340 --> 00:10:26,680
+So using something as a crutch.
+所以“把某物当拐杖”。
+
+231
+00:10:26,680 --> 00:10:32,400
+Now the crutch is a you know when you when you break your leg you use those wooden or
+拐杖就是，当你摔断腿时，你用的那些木制或
+
+232
+00:10:32,400 --> 00:10:34,720
+metal sticks to walk with.
+金属棍子来走路。
+
+233
+00:10:34,720 --> 00:10:35,720
+OK to help you walk.
+好的，用来帮助你走路。
+
+234
+00:10:35,720 --> 00:10:36,720
+Yeah.
+是的。
+
+235
+00:10:36,720 --> 00:10:41,340
+So the boss is basically saying you're using these technical glitches as an excuse or as
+所以老板基本上是在说，你在用这些技术故障作为借口或
+
+236
+00:10:41,340 --> 00:10:44,400
+an aid to why you missed the deadline.
+辅助理由，来解释你为什么错过了截止日期。
+
+237
+00:10:44,400 --> 00:10:45,400
+Yeah.
+是的。
+
+238
+00:10:45,400 --> 00:10:49,360
+So if you think about it like this some people might say OK if you walk with a crutch then
+所以如果你这样想，有些人可能会说，如果你拄着拐杖走路，
+
+239
+00:10:49,360 --> 00:10:51,680
+you you won't succeed.
+你就不会成功。
+
+240
+00:10:51,680 --> 00:10:52,680
+Right.
+对。
+
+241
+00:10:52,680 --> 00:10:54,760
+Because whatever.
+因为不管怎样。
+
+242
+00:10:54,760 --> 00:11:00,600
+So this guy this employee is basically saying yes I know that I should meet deadlines but
+所以这个员工基本上是在说，是的，我知道我应该按时完成任务，但
+
+243
+00:11:00,600 --> 00:11:05,080
+these these problems these glitches are like my crutch that make me not succeed.
+这些问题、这些故障就像我的拐杖，让我无法成功。
+
+244
+00:11:05,080 --> 00:11:06,080
+OK.
+好的。
+
+245
+00:11:06,080 --> 00:11:08,520
+So he's trying to just make excuses.
+所以他只是在找借口。
+
+246
+00:11:08,520 --> 00:11:11,720
+So God Marco that is a little bit difficult to understand.
+天哪，Marco，这有点难理解。
+
+247
+00:11:11,720 --> 00:11:14,120
+Do you think we should give a couple more examples.
+你觉得我们应该再举几个例子吗？
+
+248
+00:11:14,120 --> 00:11:17,440
+Yeah I think I think some more examples would be very useful.
+是的，我觉得再多举几个例子会很有用。
+
+249
+00:11:17,440 --> 00:11:21,160
+So let's listen to a couple of them now.
+那我们现在来听几个例子。
+
+250
+00:11:21,160 --> 00:11:23,680
+Example one.
+例子一。
+
+251
+00:11:23,680 --> 00:11:28,720
+I realized that I was using alcohol as a crutch to get through the day.
+我意识到我过去把喝酒当作度过一天的拐杖。
+
+252
+00:11:28,720 --> 00:11:30,920
+Example two.
+例子二。
+
+253
+00:11:30,920 --> 00:11:38,760
+I think Bill's very capable of being successful but he uses his disability as a crutch example
+我觉得比尔完全有能力成功，但他把自己的残疾当作拐杖。例子
+
+254
+00:11:38,760 --> 00:11:41,600
+three.
+三。
+
+255
+00:11:41,600 --> 00:11:45,960
+Stop using your weight as a crutch just because you're a bit fat doesn't mean you can't get
+别再拿你的体重当拐杖了，你只是有点胖，并不意味着你不能找到
+
+256
+00:11:45,960 --> 00:11:48,480
+a great job.
+一份好工作。
+
+257
+00:11:48,480 --> 00:11:49,480
+All right.
+好的。
+
+258
+00:11:49,480 --> 00:11:54,600
+So a lot of great phrases great words and well I think it's time for us to listen to
+所以有很多很棒的短语和词汇，我想是时候让我们最后
+
+259
+00:11:54,600 --> 00:12:00,240
+this dialogue for the last time and then we'll come back and talk about this aspect of meeting
+听一遍这段对话了，然后我们再回来讨论关于按时完成任务
+
+260
+00:12:00,240 --> 00:12:08,160
+deadlines.
+的这个方面。
+
+261
+00:12:08,160 --> 00:12:13,080
+And so I just wanted to check in with you and find out where we are with this project.
+所以我想跟你确认一下，看看这个项目进展到哪了。
+
+262
+00:12:13,080 --> 00:12:17,500
+As you know you've missed a fairly significant deadline last week and this will negatively
+你知道，上周你错过了一个相当重要的截止日期，这会负面
+
+263
+00:12:17,500 --> 00:12:22,360
+impact the team's ability to move forward with the next stages of this project.
+影响团队推进项目下一阶段的能力。
+
+264
+00:12:22,360 --> 00:12:27,160
+I know I'm really sorry that I missed the deadline but really it wasn't my fault.
+我知道，我很抱歉错过了截止日期，但这真的不是我的错。
+
+265
+00:12:27,160 --> 00:12:32,040
+You see we had all of these unexpected technical problems at the last minute and I couldn't
+你看，我们在最后一刻遇到了所有这些意想不到的技术问题，我无法
+
+266
+00:12:32,040 --> 00:12:36,160
+get into the database and extract the kind of information that I needed for the data
+进入数据库提取我进行数据
+
+267
+00:12:36,160 --> 00:12:37,160
+analysis.
+分析所需的那种信息。
+
+268
+00:12:37,160 --> 00:12:42,720
+You know if the tech guys would have done their job and kept the CRM stable then I wouldn't
+你知道，如果技术团队做好他们的工作，保持CRM系统稳定，我就不会
+
+269
+00:12:42,720 --> 00:12:44,040
+have missed my deadline.
+错过截止日期了。
+
+270
+00:12:44,040 --> 00:12:45,580
+Oh come on.
+哦，得了吧。
+
+271
+00:12:45,580 --> 00:12:48,640
+An excuse like that is tantamount to lying.
+像这样的借口无异于撒谎。
+
+272
+00:12:48,640 --> 00:12:53,240
+You're essentially blaming the tech team for your time management issues rather than accepting
+你基本上是在把你的时间管理问题归咎于技术团队，而不是接受
+
+273
+00:12:53,240 --> 00:12:57,960
+responsibility for the fact that you were procrastinating for the past two weeks.
+你过去两周一直在拖延的事实。
+
+274
+00:12:57,960 --> 00:13:00,240
+No I'm not trying to pass the buck here.
+不，我不是想推卸责任。
+
+275
+00:13:00,240 --> 00:13:03,800
+I know it was me who was ultimately responsible for getting this done.
+我知道最终负责完成这件事的人是我。
+
+276
+00:13:03,800 --> 00:13:08,600
+But the thing is I could have finished on time if the system hadn't gone down.
+但问题是，如果系统没有出故障，我本来可以按时完成的。
+
+277
+00:13:08,600 --> 00:13:13,120
+And you know with everything I've got going on now I can't afford to waste time dealing
+而且你知道，我现在手头有这么多事，我可没时间浪费在
+
+278
+00:13:13,120 --> 00:13:14,120
+with technical problems.
+处理技术问题上。
+
+279
+00:13:14,120 --> 00:13:18,040
+I've got a lot on my plate and there are only 24 hours in a day.
+我手头事情很多，一天只有24小时。
+
+280
+00:13:18,040 --> 00:13:21,280
+I'm not going to accept this excuse.
+我不会接受这个借口。
+
+281
+00:13:21,280 --> 00:13:25,840
+You're using these small technical glitches as a crutch and trying to rationalize the
+你在用这些小的技术故障当拐杖，试图合理化
+
+282
+00:13:25,840 --> 00:13:27,880
+fact that you've missed your deadline.
+你错过截止日期的事实。
+
+283
+00:13:27,880 --> 00:13:32,260
+Look we have standards and I expect you to live up to those standards.
+听着，我们有标准，我希望你达到这些标准。
+
+284
+00:13:32,260 --> 00:13:34,360
+No more phony excuses.
+别再找虚假的借口了。
+
+285
+00:13:34,360 --> 00:13:36,760
+If you're in over your head you tell me.
+如果你应付不来，就告诉我。
+
+286
+00:13:36,760 --> 00:13:38,400
+No more missed deadlines.
+不能再错过截止日期了。
+
+287
+00:13:38,400 --> 00:13:47,680
+Now I want that data on my desk by 9 a.m.
+现在，我要你在早上9点前把数据放在我桌上。
+
+288
+00:13:47,680 --> 00:13:50,960
+This employee got in a lot of trouble for missing his deadline.
+这个员工因为错过截止日期惹了大麻烦。
+
+289
+00:13:50,960 --> 00:13:51,960
+Exactly.
+没错。
+
+290
+00:13:51,960 --> 00:13:59,520
+I think it's a very important aspect of not only Western culture but also in general assuming
+我认为这不仅在西方文化中，而且在普遍情况下，是一个非常重要的方面：当
+
+291
+00:13:59,520 --> 00:14:01,480
+guilt when it's your fault.
+是你的错时，要承担责任。
+
+292
+00:14:01,480 --> 00:14:07,240
+In this case we saw that the employee didn't really want to accept the fact that it was
+在这个案例中，我们看到员工并不想接受这是
+
+293
+00:14:07,240 --> 00:14:08,240
+his fault.
+他的错这个事实。
+
+294
+00:14:08,240 --> 00:14:13,280
+He didn't say yeah I know it was me I'm sorry and this is my plan to fix it.
+他没有说：“是的，我知道是我的错，我很抱歉，这是我的补救计划。”
+
+295
+00:14:13,280 --> 00:14:18,520
+Now this is very important among cultures because in some cultures the aspect of losing
+这在不同的文化中非常重要，因为在某些文化中，“丢面子”
+
+296
+00:14:18,520 --> 00:14:20,640
+face is so important right?
+这个方面非常重要，对吧？
+
+297
+00:14:20,640 --> 00:14:21,640
+Right.
+对。
+
+298
+00:14:21,640 --> 00:14:25,760
+So somebody may not really want to assume guilt or they have to because it's part of
+所以有些人可能不想承担责任，或者他们必须承担，因为这是
+
+299
+00:14:25,760 --> 00:14:26,760
+the culture.
+文化的一部分。
+
+300
+00:14:26,760 --> 00:14:30,000
+But what's the standard in North American business practice?
+但北美商业实践中的标准是什么？
+
+301
+00:14:30,000 --> 00:14:35,360
+I would say that you would have to assume responsibility and take responsibility for
+我会说，你必须承担责任，为你的行为负责，
+
+302
+00:14:35,360 --> 00:14:39,680
+your actions right and say yes it's my fault I did it but I'm going to get it fixed or
+并说：“是的，是我的错，我做的，但我会解决它，或者
+
+303
+00:14:39,680 --> 00:14:42,200
+I'll do it or I'll make up for it.
+我会去做，或者我会弥补。”
+
+304
+00:14:42,200 --> 00:14:47,160
+So some good business tips here today in this lesson.
+所以今天这节课里有一些很好的商业建议。
+
+305
+00:14:47,160 --> 00:14:51,520
+Now remember if you have any questions about the language or want to tell us a little bit
+现在记住，如果你对语言有任何疑问，或者想告诉我们
+
+306
+00:14:51,520 --> 00:14:57,920
+about how you assume responsibility in your culture visit our website at EnglishPod.com.
+在你的文化中你是如何承担责任的，请访问我们的网站EnglishPod.com。
+
+307
+00:14:57,920 --> 00:15:00,920
+Right we're always there to help you out and until next time.
+对，我们随时都在那里帮助你，直到下次再见。
+
+308
+00:15:00,920 --> 00:15:19,400
+Thanks for listening and goodbye!
+感谢收听，再见！
