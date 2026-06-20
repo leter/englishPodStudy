@@ -23,3 +23,14 @@ resource/dict/lemmas.json
 .DS_Store
 *.local
 *.local.json
+
+# AI agent / editor tooling (local only)
+.claude/
+.codex/
+.cursor/
+.factory/
+.od-skills/
+
+# Process docs (not needed to build/run)
+openspec/
+docs/
