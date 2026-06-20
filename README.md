@@ -1,6 +1,8 @@
 # EnglishPod
 
-EnglishPod 是一个面向个人自部署的英语听力学习 Web 应用，用来整合 EnglishPod 课程资源、音频播放、字幕跟读、生词收藏和间隔复习。项目当前是一个 npm workspace，包含前端 `apps/web` 和轻量 API 服务 `apps/api`。
+EnglishPod365 是一个面向英语学习者的在线学习网站，围绕 365 节 EnglishPod 课程提供沉浸式听力训练、同步字幕、划词翻译、生词收藏和每日复习，帮助用户从真实语境中持续积累词汇与听力能力。
+
+EnglishPod365 is an online English learning website built around 365 EnglishPod lessons. It combines immersive listening practice, synchronized subtitles, word selection translation, vocabulary saving, and daily review to help learners build vocabulary and listening skills from real lesson context.
 
 ## 项目详细介绍 / Detailed Project Introduction
 
@@ -281,6 +283,7 @@ npm run start:api    # 生产方式启动 API
 - 当前没有用户系统，适合个人自部署使用。
 - 当前仓库没有内置 Docker 部署文件，如需 Docker 一键部署，需要后续补充镜像构建与资源挂载方案。
 - AI 解析、PDF 内嵌阅读、跟读评分等能力在 `PRD.md` 中有规划，但 README 仅描述当前代码中可运行的核心功能。
+
 
 
 
