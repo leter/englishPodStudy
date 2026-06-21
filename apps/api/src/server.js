@@ -13,6 +13,29 @@ const dictDir = process.env.ENGLISHPOD_DICT_DIR
   : path.join(resourceDir, 'dict')
 const lookupPath = path.join(dictDir, 'lookup.json')
 const lemmasPath = path.join(dictDir, 'lemmas.json')
+const webDistDir = process.env.WEB_DIST_DIR
+  ? path.resolve(process.env.WEB_DIST_DIR)
+  : path.join(rootDir, 'apps', 'web', 'dist')
+
+const staticContentTypes = new Map([
+  ['.html', 'text/html; charset=utf-8'],
+  ['.js', 'text/javascript; charset=utf-8'],
+  ['.mjs', 'text/javascript; charset=utf-8'],
+  ['.css', 'text/css; charset=utf-8'],
+  ['.json', 'application/json; charset=utf-8'],
+  ['.svg', 'image/svg+xml'],
+  ['.png', 'image/png'],
+  ['.jpg', 'image/jpeg'],
+  ['.jpeg', 'image/jpeg'],
+  ['.gif', 'image/gif'],
+  ['.webp', 'image/webp'],
+  ['.ico', 'image/x-icon'],
+  ['.woff', 'font/woff'],
+  ['.woff2', 'font/woff2'],
+  ['.ttf', 'font/ttf'],
+  ['.map', 'application/json; charset=utf-8'],
+  ['.txt', 'text/plain; charset=utf-8'],
+])
 
 const resourceTypes = new Map([
   ['dialog.mp3', 'audio/mpeg'],
@@ -214,6 +237,50 @@ async function sendResource(req, res, lessonId, fileName) {
   createReadStream(fullPath).pipe(res)
 }
 
+async function sendStatic(req, res, pathname) {
+  const relativePath = decodeURIComponent(pathname).replace(/^\/+/, '')
+  const candidate = path.resolve(webDistDir, relativePath || 'index.html')
+  const expectedRoot = path.resolve(webDistDir) + path.sep
+  const filePath =
+    candidate === path.resolve(webDistDir) || candidate.startsWith(expectedRoot)
+      ? candidate
+      : null
+
+  let fileStat = null
+  if (filePath) {
+    try {
+      fileStat = await stat(filePath)
+    } catch {
+      fileStat = null
+    }
+  }
+
+  // SPA fallback: unknown non-asset routes return index.html
+  const indexPath = path.join(webDistDir, 'index.html')
+  const target = fileStat?.isFile() ? filePath : indexPath
+  const contentType =
+    staticContentTypes.get(path.extname(target).toLowerCase()) ??
+    'application/octet-stream'
+
+  let targetStat
+  try {
+    targetStat = await stat(target)
+  } catch {
+    return false
+  }
+
+  res.writeHead(200, {
+    'content-type': contentType,
+    'content-length': targetStat.size,
+  })
+  if (req.method === 'HEAD') {
+    res.end()
+    return true
+  }
+  createReadStream(target).pipe(res)
+  return true
+}
+
 async function route(req, res) {
   if (req.method !== 'GET' && req.method !== 'HEAD') {
     methodNotAllowed(res)
@@ -288,6 +355,11 @@ async function route(req, res) {
   ) {
     await sendResource(req, res, parts[2], parts[3])
     return
+  }
+
+  if (parts[0] !== 'api') {
+    const served = await sendStatic(req, res, url.pathname)
+    if (served) return
   }
 
   notFound(res)

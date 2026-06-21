@@ -8,6 +8,9 @@
   ],
   "scripts": {
     "dev": "node tools/dev.mjs",
+    "build": "npm run build:web",
+    "start": "node apps/api/src/server.js",
+    "serve": "npm run build:web && node apps/api/src/server.js",
     "dev:api": "npm run dev -w apps/api",
     "start:api": "npm run start -w apps/api",
     "test:api": "npm run test -w apps/api",
