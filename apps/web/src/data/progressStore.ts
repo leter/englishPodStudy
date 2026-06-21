@@ -2,6 +2,11 @@ const STORAGE_KEY = 'englishpod.lessonProgress.v1'
 
 export const PROGRESS_CHANGE_EVENT = 'englishpod-progress-change'
 
+function emitProgressChange() {
+  if (typeof window === 'undefined') return
+  window.dispatchEvent(new Event(PROGRESS_CHANGE_EVENT))
+}
+
 export type LessonProgress = {
   currentTime: number
   duration: number
@@ -62,6 +67,12 @@ export function readLessonProgress(): LessonProgressMap {
 export function writeLessonProgress(progressMap: LessonProgressMap) {
   if (typeof window === 'undefined') return
   window.localStorage.setItem(STORAGE_KEY, JSON.stringify(progressMap))
+}
+
+export function clearLessonProgress() {
+  if (typeof window === 'undefined') return
+  window.localStorage.removeItem(STORAGE_KEY)
+  emitProgressChange()
 }
 
 export function saveLessonProgress(

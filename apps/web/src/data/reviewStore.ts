@@ -293,6 +293,14 @@ export function writeVocab(entries: VocabEntry[]) {
   writeArray(VOCAB_STORAGE_KEY, entries, VOCAB_CHANGE_EVENT)
 }
 
+export function clearReviewMemory() {
+  if (typeof window === 'undefined') return
+  window.localStorage.removeItem(VOCAB_STORAGE_KEY)
+  window.localStorage.removeItem(SENTENCE_STORAGE_KEY)
+  emitChange(VOCAB_CHANGE_EVENT)
+  emitChange(REVIEW_CHANGE_EVENT)
+}
+
 export function addVocab(draft: VocabDraft, options: ClockOptions = {}): VocabEntry {
   const now = options.now ?? Date.now()
   const entries = readVocab({ now })

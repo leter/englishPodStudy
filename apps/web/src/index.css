@@ -493,6 +493,21 @@
     }
   }
 
+  .course-level-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--muted);
+    font-size: var(--text-sm);
+  }
+
+  .course-level-pill .level-badge {
+    width: 20px;
+    height: 20px;
+    border-radius: 7px;
+    font-size: 11px;
+  }
+
   .course-item .level-badge {
     width: 20px;
     height: 20px;

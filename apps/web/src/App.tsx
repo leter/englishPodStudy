@@ -2,9 +2,10 @@ import { useEffect, useState } from 'react'
 import type { ReactNode } from 'react'
 import { Link, NavLink, Navigate, Outlet, Route, Routes } from 'react-router-dom'
 import { cn } from '@/lib/utils'
-import { formatTime, useCourseList, type CourseLesson, type CourseListData } from '@/data/courseList'
-import { PROGRESS_CHANGE_EVENT, readLessonProgress } from '@/data/progressStore'
-import { countDueReviewItems, readVocab, REVIEW_CHANGE_EVENT, VOCAB_CHANGE_EVENT } from '@/data/vocabStore'
+import { PAGE_TITLES } from '@/lib/pageTitles'
+import { formatCourseLevel, formatTime, getLevelBadge, useCourseList, type CourseListData } from '@/data/courseList'
+import { clearLessonProgress, PROGRESS_CHANGE_EVENT, readLessonProgress } from '@/data/progressStore'
+import { clearReviewMemory, countDueReviewItems, readVocab, REVIEW_CHANGE_EVENT, VOCAB_CHANGE_EVENT } from '@/data/vocabStore'
 import { ThemeToggle, type Theme } from '@/components/ThemeToggle'
 import { getLessonStatus, matchesLessonSearch, matchesLessonStatusFilter, type LessonStatus, type LessonStatusFilter } from '@/components/lesson/courseFilter'
 import { LessonPage } from '@/pages/LessonPage'
@@ -14,11 +15,11 @@ import { VocabPage } from '@/pages/VocabPage'
 const THEME_KEY = 'englishpod-theme'
 
 const navItems = [
-  { to: '/dashboard', label: '总览', eyebrow: 'Overview' },
-  { to: '/courses', label: '课程', eyebrow: 'Lessons' },
-  { to: '/vocab', label: '生词本', eyebrow: 'Vocabulary' },
-  { to: '/review', label: '复习', eyebrow: 'SRS' },
-  { to: '/settings', label: '设置', eyebrow: 'Settings' },
+  { to: '/dashboard', label: PAGE_TITLES.dashboard, eyebrow: 'Overview' },
+  { to: '/courses', label: PAGE_TITLES.courses, eyebrow: 'Lessons' },
+  { to: '/vocab', label: PAGE_TITLES.vocab, eyebrow: 'Vocabulary' },
+  { to: '/review', label: PAGE_TITLES.review, eyebrow: 'SRS' },
+  { to: '/settings', label: PAGE_TITLES.settings, eyebrow: 'Settings' },
 ]
 
 function getInitialTheme(): Theme {
@@ -160,7 +161,7 @@ function DashboardPage() {
           Overview
         </p>
         <h1 className="mt-2 font-[var(--font-display)] text-4xl font-semibold tracking-[var(--tracking-display)] md:text-5xl">
-          从一节课开始，把听力练成习惯。
+          {PAGE_TITLES.dashboard}
         </h1>
       </div>
 
@@ -360,7 +361,7 @@ function CoursesPage() {
 
   return (
     <section className="mx-auto grid max-w-6xl gap-5">
-      <PageHeading eyebrow="Lessons" title="课程库" />
+      <PageHeading eyebrow="Lessons" title={PAGE_TITLES.courses} />
       {loading && <StateText>正在加载课程列表...</StateText>}
       {error && <StateText>课程列表加载失败：{error}</StateText>}
 
@@ -396,7 +397,7 @@ function CoursesPage() {
         <div className="grid grid-cols-[76px_minmax(0,1fr)_150px_190px] gap-4 border-b border-[var(--border-soft)] bg-[var(--surface)] px-4 py-2 font-[var(--font-mono)] text-xs uppercase tracking-[0.08em] text-[var(--meta)] max-lg:hidden">
           <span>Lesson</span>
           <span>Title</span>
-          <span>Level</span>
+          <span>级别</span>
           <span>Progress</span>
         </div>
         <div className="divide-y divide-[var(--border-soft)]">
@@ -410,10 +411,10 @@ function CoursesPage() {
               <span className="min-w-0">
                 <span className="block truncate font-semibold">{lesson.displayTitle}</span>
                 <span className="mt-1 block text-xs text-[var(--meta)] lg:hidden">
-                  {lessonMeta(lesson)} · {lessonStatusLabel(status)}
+                  {lessonListMeta(lesson.level, status)}
                 </span>
               </span>
-              <span className="hidden text-sm text-[var(--muted)] lg:block">{lessonMeta(lesson)}</span>
+              <span className="hidden lg:block">{lessonLevelBadge(lesson)}</span>
               <span className="grid gap-1.5">
                 <span className="flex items-center justify-between gap-2 text-xs text-[var(--meta)]">
                   <span>{lessonStatusLabel(status)}</span>
@@ -464,13 +465,31 @@ function progressBarWidth(progress?: { progress: number }) {
   return (progress?.progress ?? 0) + '%'
 }
 
-function lessonMeta(lesson: CourseLesson) {
-  return lesson.level ?? lesson.category ?? '未分类'
+function lessonLevelBadge(lesson: { level: string | null; levelCode: string | null }) {
+  const levelLabel = formatCourseLevel(lesson.level)
+  if (!levelLabel) return null
+
+  const levelBadge = getLevelBadge(lesson)
+  return (
+    <span className="course-level-pill">
+      <span className={`level-badge ${levelBadge.className}`} aria-hidden="true">
+        {levelBadge.code}
+      </span>
+      <span>{levelLabel}</span>
+    </span>
+  )
+}
+
+function lessonListMeta(level: string | null, status: LessonStatus) {
+  const levelLabel = formatCourseLevel(level)
+  return levelLabel ? levelLabel + ' · ' + lessonStatusLabel(status) : lessonStatusLabel(status)
 }
 
 function StateText({ children }: { children: ReactNode }) {
   return <p className="text-sm text-[var(--muted)]">{children}</p>
 }
+
+const CLEAR_MEMORY_CONFIRM_TEXT = '清空记忆'
 
 function SettingsPage({
   theme,
@@ -479,9 +498,24 @@ function SettingsPage({
   theme: Theme
   onCycleTheme: () => void
 }) {
+  const [clearConfirmOpen, setClearConfirmOpen] = useState(false)
+  const [clearConfirmText, setClearConfirmText] = useState('')
+  const [clearMessage, setClearMessage] = useState<string | null>(null)
+  const canClearMemory = clearConfirmText === CLEAR_MEMORY_CONFIRM_TEXT
+
+  const handleClearMemory = () => {
+    if (!canClearMemory) return
+
+    clearLessonProgress()
+    clearReviewMemory()
+    setClearConfirmText('')
+    setClearConfirmOpen(false)
+    setClearMessage('学习记忆已清空。主题和字幕设置已保留。')
+  }
+
   return (
     <section className="mx-auto grid max-w-5xl gap-6">
-      <PageHeading eyebrow="Settings" title="设置" />
+      <PageHeading eyebrow="Settings" title={PAGE_TITLES.settings} />
       <div className="rounded-[var(--radius-lg)] border border-[var(--border-soft)] bg-[var(--surface-warm)] p-5">
         <p className="text-sm text-[var(--muted)]">外观</p>
         <div className="mt-3 flex items-center justify-between gap-4">
@@ -492,6 +526,75 @@ function SettingsPage({
           <ThemeToggle theme={theme} onToggle={onCycleTheme} />
         </div>
       </div>
+
+      <section className="rounded-[var(--radius-lg)] border border-[color-mix(in_srgb,var(--danger)_42%,var(--border-soft))] bg-[color-mix(in_srgb,var(--danger)_6%,var(--surface-warm))] p-5">
+        <p className="font-[var(--font-mono)] text-xs uppercase tracking-[0.08em] text-[var(--danger)]">
+          危险操作
+        </p>
+        <div className="mt-3 flex flex-wrap items-start justify-between gap-4">
+          <div className="max-w-2xl">
+            <h2 className="font-semibold">清空学习记忆</h2>
+            <p className="mt-2 text-sm leading-6 text-[var(--muted)]">
+              这会删除课程学习进度、生词本和每日复习内容。这个操作无法撤销，但不会影响主题和字幕模式设置。
+            </p>
+          </div>
+          <button
+            className="rounded-[var(--radius-md)] border border-[var(--danger)] px-4 py-2 text-sm font-semibold text-[var(--danger)] transition hover:bg-[color-mix(in_srgb,var(--danger)_10%,transparent)]"
+            type="button"
+            onClick={() => {
+              setClearConfirmOpen(true)
+              setClearMessage(null)
+            }}
+          >
+            清空学习记忆
+          </button>
+        </div>
+
+        {clearConfirmOpen && (
+          <div className="mt-4 rounded-[var(--radius-md)] border border-[color-mix(in_srgb,var(--danger)_48%,var(--border-soft))] bg-[var(--surface-warm)] p-4">
+            <p className="font-semibold text-[var(--danger)]">请确认你要永久清空学习记忆</p>
+            <p className="mt-2 text-sm leading-6 text-[var(--muted)]">
+              输入 <span className="font-semibold text-[var(--fg)]">{CLEAR_MEMORY_CONFIRM_TEXT}</span> 后才能继续。
+            </p>
+            <label className="mt-4 block text-sm font-semibold" htmlFor="clear-memory-confirm">
+              确认文字
+            </label>
+            <input
+              id="clear-memory-confirm"
+              className="mt-2 w-full rounded-[var(--radius-md)] border border-[var(--border-soft)] bg-[var(--surface)] px-3 py-2 text-sm text-[var(--fg)] outline-none transition placeholder:text-[var(--meta)] focus:border-[var(--danger)]"
+              placeholder={CLEAR_MEMORY_CONFIRM_TEXT}
+              value={clearConfirmText}
+              onChange={(event) => setClearConfirmText(event.target.value)}
+            />
+            <div className="mt-4 flex flex-wrap gap-3">
+              <button
+                className="rounded-[var(--radius-md)] bg-[var(--danger)] px-4 py-2 text-sm font-semibold text-white transition disabled:cursor-not-allowed disabled:opacity-45"
+                type="button"
+                disabled={!canClearMemory}
+                onClick={handleClearMemory}
+              >
+                确认清空
+              </button>
+              <button
+                className="rounded-[var(--radius-md)] border border-[var(--border-soft)] px-4 py-2 text-sm font-semibold text-[var(--muted)] transition hover:bg-[var(--surface)]"
+                type="button"
+                onClick={() => {
+                  setClearConfirmOpen(false)
+                  setClearConfirmText('')
+                }}
+              >
+                取消
+              </button>
+            </div>
+          </div>
+        )}
+
+        {clearMessage && (
+          <p className="mt-4 rounded-[var(--radius-md)] bg-[color-mix(in_srgb,var(--success)_10%,transparent)] px-4 py-3 text-sm text-[var(--success)]">
+            {clearMessage}
+          </p>
+        )}
+      </section>
     </section>
   )
 }

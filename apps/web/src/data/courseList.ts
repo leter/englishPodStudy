@@ -55,13 +55,26 @@ export type CourseListData = {
   lessons: CourseLesson[]
 }
 
-export function getLevelBadge(lesson: CourseLesson) {
+const COURSE_LEVEL_LABELS: Record<string, string> = {
+  beginner: '简单',
+  elementary: '简单',
+  'lower intermediate': '中等',
+  intermediate: '中等',
+  'upper intermediate': '较难',
+  advanced: '困难',
+}
+
+export function formatCourseLevel(level: string | null | undefined) {
+  return level ? COURSE_LEVEL_LABELS[level.trim().toLowerCase()] ?? '' : ''
+}
+
+export function getLevelBadge(lesson: Pick<CourseLesson, 'level' | 'levelCode'>) {
   const code = lesson.levelCode ?? 'X'
   const normalizedCode = /^[A-Z]$/.test(code) ? code : 'X'
 
   return {
     code: normalizedCode,
-    label: lesson.level ?? lesson.category ?? '未分类',
+    label: formatCourseLevel(lesson.level),
     className: `level-${normalizedCode.toLowerCase()}`,
   }
 }

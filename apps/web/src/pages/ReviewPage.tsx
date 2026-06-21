@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { PAGE_TITLES } from '@/lib/pageTitles'
 import {
   formatTime,
   getResourceUrl,
@@ -347,7 +348,7 @@ function ReviewHeading() {
         SRS
       </p>
       <h1 className="mt-2 font-[var(--font-display)] text-4xl font-semibold tracking-[var(--tracking-display)]">
-        每日复习
+        {PAGE_TITLES.review}
       </h1>
     </div>
   )

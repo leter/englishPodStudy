@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { formatTime } from '@/data/courseList'
+import { PAGE_TITLES } from '@/lib/pageTitles'
 import {
   readVocab,
   removeVocab,
@@ -81,7 +82,7 @@ export function VocabPage() {
           Vocabulary
         </p>
         <h1 className="mt-2 font-[var(--font-display)] text-4xl font-semibold tracking-[var(--tracking-display)]">
-          生词本
+          {PAGE_TITLES.vocab}
         </h1>
       </div>
 

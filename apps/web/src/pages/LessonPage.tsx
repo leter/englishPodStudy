@@ -283,6 +283,7 @@ export function LessonPage({ theme, onCycleTheme }: LessonPageProps) {
               })
               setVocabVersion((version) => version + 1)
               setToastMessage(`${entry.word} 已加入生词本`)
+              setSelectedWord(null)
             }}
             onRemove={(entry) => {
               if (!selectedWord) return

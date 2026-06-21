@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import {
+  formatCourseLevel,
   formatTime,
   getLevelBadge,
   getResourceUrl,
@@ -118,6 +119,7 @@ export function PersistentPlayer({
   const progress = duration > 0 ? (seekValue / duration) * 100 : 0
   const speedLabel = playbackRate === 1 ? '1.0x' : `${playbackRate}x`
   const levelBadge = getLevelBadge(lesson)
+  const levelLabel = formatCourseLevel(lesson.level)
   const playbackModeLabel = PLAYBACK_MODE_LABELS[playbackMode]
   const nextPlaybackModeLabel = PLAYBACK_MODE_LABELS[getNextPlaybackMode(playbackMode)]
   const subtitleModeLabel = SUBTITLE_MODE_LABELS[subtitleMode]
@@ -296,7 +298,7 @@ export function PersistentPlayer({
         <div className="now-text">
           <div className="now-title">{lesson.displayTitle}</div>
           <div className="now-sub">
-            LESSON {lesson.id} · {lesson.level ?? lesson.category ?? '未分类'}
+            LESSON {lesson.id}{levelLabel ? ' · ' + levelLabel : ''}
           </div>
         </div>
       </div>
